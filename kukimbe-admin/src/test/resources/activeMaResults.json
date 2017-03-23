@@ -1,0 +1,265 @@
+{
+  "retries": 0,
+  "total_results": 166,
+  "items_per_page": 1,
+  "start_index": 0,
+  "facets": [],
+  "facet_values": [],
+  "suggestions": [],
+  "results": [{
+    "assetTopics": [{
+      "sequence": "1",
+      "topic": {
+        "topicId": "278",
+        "topicName": "Distance running",
+        "topicTaxonomy": "Endurance/Running/Distance running"
+      }
+    }, {
+      "sequence": "2",
+      "topic": {
+        "topicId": "27",
+        "topicName": "Running",
+        "topicTaxonomy": "Endurance/Running"
+      }
+    }],
+    "salesEndDate": null,
+    "regReqGenderCd": "",
+    "registrationUrlAdr": "http://www.active.com/pepperell-ma/running/distance-running-races/nm-cares-3-6-mile-road-race-ending-the-stigma-starting-new-lives-2016",
+    "retryDate": "2016-08-10T05:02:04",
+    "evergreenAssets": [],
+    "assetSeoUrls": [{
+      "seoSystemName": "as3",
+      "statusCode": "true",
+      "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fpepperell-ma%2Frunning%2Fdistance-running-races%2Fnm-cares-3-6-mile-road-race-ending-the-stigma-starting-new-lives-2016?cmp=39-34-405166"
+    }],
+    "publishDate": null,
+    "assetChannels": [{
+      "sequence": "1",
+      "channel": {
+        "channelDsc": "Running",
+        "channelName": "Running",
+        "channelId": "1020"
+      }
+    }],
+    "sorCreateDtm": null,
+    "localeCd": "",
+    "activityRecurrences": [{
+      "frequencyInterval": "1",
+      "activityStartDate": "2016-08-21T09:00:00",
+      "activityExclusions": [],
+      "activityEndDate": "2016-08-21T00:00:00",
+      "days": "Sunday",
+      "startTime": "",
+      "endTime": "",
+      "frequency": {
+        "frequencyName": "Daily"
+      }
+    }],
+    "assetLegacyData": {
+      "maxTeamNb": "",
+      "assetTypeId": "",
+      "costAmt": "",
+      "typeName": "",
+      "uploadSearchUrlAdr": "",
+      "avgUserRatingTxt": "",
+      "trackbackUrl": "",
+      "seoUrl": "",
+      "eventCategories": "",
+      "estParticipantNb": "200",
+      "participationCriteriaTxt": "",
+      "priceExtensionTxt": "",
+      "isSearchable": "false",
+      "onlineMembership": "",
+      "minGuaranteedGameNb": "",
+      "searchWeight": "",
+      "userCommentTxt": "",
+      "substitutionUrl": "",
+      "onlineDonation": "",
+      "genderRequirementTxt": "",
+      "createdDate": "2016-08-10T08:51:54",
+      "onlineMembershipCostAmt": "",
+      "authorName": "",
+      "onlineRegistration": "",
+      "modifiedDate": "2016-08-10T08:51:54",
+      "multipleStartDate": ""
+    },
+    "activityEndDate": "2016-08-21T00:00:00",
+    "assetDeals": [],
+    "assetServiceHostName": "as-app08",
+    "childIndex": "",
+    "assetDescriptions": [{
+      "descriptionType": {
+        "descriptionTypeName": "summary",
+        "descriptionTypeId": "4"
+      },
+      "description": "This event is presented by NM Cares 501(c)3 Outreach organization raising awareness on the abuse and misuse of opioids and help. <h4>Entry Fee</h4> <p>Ages 19 & up: $25. <br>18 & under: $15. <br>Day-of Registration: $20 for 18-under / $30 for 19+.</p>"
+    }],
+    "componentInUrlAdr": {},
+    "activityStartDate": "2016-08-21T09:00:00",
+    "contactName": "",
+    "sorCreateUserId": "",
+    "localTimeZoneId": "",
+    "contactEmailAdr": "nmcommunitycares@gmail.com",
+    "socialMedia": [],
+    "donationUrlAdr": "",
+    "activenetTopGraphic": {},
+    "assetReferences": [],
+    "market": {},
+    "assetAttributes": [{
+      "attribute": {
+        "tagId": "58715",
+        "attributeValue": "Other running distance",
+        "attributeType": "Distance (running)"
+      }
+    }, {
+      "attribute": {
+        "tagId": "58734",
+        "attributeValue": "All",
+        "attributeType": "Age group"
+      }
+    }],
+    "timezoneAbb": "",
+    "assetMediaTypes": [{
+      "sequence": "1",
+      "mediaType": {
+        "mediaTypeName": "Event\\Road Race",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "295"
+      }
+    }],
+    "evergreenAssetFlag": "false",
+    "authorName": "",
+    "registrantSearchUrlAdr": "",
+    "modifiedDate": "2016-08-10T08:52:04",
+    "timezoneName": "",
+    "showContact": "true",
+    "assetParentAsset": {},
+    "assetStatus": {
+      "assetStatusId": "2",
+      "assetStatusName": "VISIBLE"
+    },
+    "regReqMaxAge": null,
+    "currencyCd": "",
+    "resultsUrlAdr": "",
+    "assetImages": [],
+    "evergreenParentAsset": {},
+    "sourceSystem": {
+      "sourceSystemName": "Researched Assets",
+      "legacyGuid": "b47b0828-23ed-4d85-bdf0-b22819f53332",
+      "affiliate": "false"
+    },
+    "assetGuid": "c6ed2d9b-081b-4ad9-adac-b32007bb6dbe",
+    "timezone": "",
+    "assetRootAsset": {},
+    "assetTags": [{
+      "tag": {
+        "tagId": "342833",
+        "tagName": "3.6 Mile",
+        "tagDescription": "MISCELLANEOUS"
+      }
+    }, {
+      "tag": {
+        "tagId": "58715",
+        "tagName": "Other running distance",
+        "tagDescription": "Distance (running)"
+      }
+    }, {
+      "tag": {
+        "tagId": "58734",
+        "tagName": "All",
+        "tagDescription": "Age group"
+      }
+    }],
+    "assetPopularity": {
+      "searches": 0,
+      "createdAt": 1471393751,
+      "clickTypes": {
+        "otherActive": 3,
+        "registration": 0,
+        "nonActive": 0
+      },
+      "clicks": 3,
+      "rank": 140,
+      "results": 126,
+      "views": 5,
+      "A3Rank": 62
+    },
+    "preferredUrlAdr": "",
+    "logoUrlAdr": "",
+    "assetPrices": [{
+      "effectiveFromVolume": "0",
+      "priceAmt": null,
+      "maxPriceAmt": 30,
+      "effectiveUntilDate": null,
+      "minPriceAmt": 15,
+      "effectiveToVolume": "0",
+      "dynamicPricing": "false",
+      "volumePricing": "false"
+    }],
+    "detailPageTemplateId": "",
+    "assetComponents": [],
+    "teamUrlAdr": "",
+    "sorId": "",
+    "place": {
+      "placeDsc": "",
+      "placeUrlAdr": "",
+      "timezone": "America/New_York",
+      "postalCode": "01463",
+      "latitude": "42.673736",
+      "directionsTxt": "",
+      "addressLine2Txt": "",
+      "geoPoint": {
+        "lon": "-71.590741",
+        "lat": "42.673736"
+      },
+      "addressLine1Txt": "33 Chace Avenue",
+      "stateProvinceCode": "MA",
+      "localityName": "",
+      "cityName": "Pepperell",
+      "timezoneOffset": -5,
+      "timezoneDST": 1,
+      "countryCode": "USA",
+      "dma": {
+        "dmaId": "506",
+        "dmaName": "Boston (Manchester)"
+      },
+      "countryName": "United States",
+      "placeGuid": "5092007d-17f9-45d8-91a4-fac6d1bdd3b9",
+      "placeName": "Nissitissit Middle School",
+      "longitude": "-71.590741"
+    },
+    "overrideSeourlFlag": "false",
+    "assetCategories": [{
+      "sequence": "1",
+      "category": {
+        "categoryName": "Races",
+        "categoryId": "22",
+        "categoryTaxonomy": "Event/Races"
+      }
+    }],
+    "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fpepperell-ma%2Frunning%2Fdistance-running-races%2Fnm-cares-3-6-mile-road-race-ending-the-stigma-starting-new-lives-2016?cmp=39-34-405166",
+    "retryCounter": "2",
+    "assetInterests": [],
+    "assetDsc": "",
+    "contactTxt": "",
+    "alternateName": "",
+    "regReqMinAge": null,
+    "createdDate": "2016-08-10T08:51:54",
+    "assetMetaInterests": [],
+    "salesStartDate": null,
+    "homePageUrlAdr": "https://www.facebook.com/nm.cares",
+    "assetQuantity": {},
+    "organization": {
+      "primaryContactName": "",
+      "organizationUrlAdr": ""
+    },
+    "assetName": "NM Cares 3.6 Mile Road Race - \"Ending the Stigma....Starting New Lives\"",
+    "contactPhone": "978-995-5845",
+    "searchScore": 4.638656,
+    "assetVersion": 11,
+    "salesStatus": "registration-unavailable"
+  }],
+  "radius": null,
+  "start_date": "",
+  "sort": "distance"
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>     
+        <title>Kukimbe dashboard</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">   
+        <link href="css/style.css" rel="stylesheet">    
+        <script src="js/angular.min.js"></script>  
+        <script src="js/app.js"></script> 
+        <script src="js/angular/angular.js"></script>    
+    </head>
+    <body ng-app="myApp">   
+        <div ng-controller="MyController">
+            <table>
+                <thead>
+                    <tr id="Column_name">
+                        <th> <input type="checkbox" name="allcheck" ng-model="selectedAll" ng-click="checkAll()"/> </th>   
+                        <th ng-repeat="(header, value) in resultData[0]">{{header}}</th> 
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="row in resultData" id=Column_details>
+                         <td ><input type="checkbox" ng-model="row.Selected"/></td>
+                         <td ng-repeat="cell in row"> {{cell}}</td>             
+                    </tr>
+                </tbody>
+            </table>
+        </div>     
+      
+        
+    </body>
+</html>
+    	
+    
+    
+    
+    
+    
+    

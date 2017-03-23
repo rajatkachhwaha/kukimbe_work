@@ -1,0 +1,3024 @@
+{
+  "retries": 0,
+  "total_results": 166,
+  "items_per_page": 10,
+  "start_index": 0,
+  "facets": [],
+  "facet_values": [],
+  "suggestions": [],
+  "results": [{
+    "assetTopics": [{
+      "sequence": "1",
+      "topic": {
+        "topicId": "279",
+        "topicName": "Cross country running",
+        "topicTaxonomy": "Endurance/Running/Cross country running"
+      }
+    }, {
+      "sequence": "2",
+      "topic": {
+        "topicId": "278",
+        "topicName": "Distance running",
+        "topicTaxonomy": "Endurance/Running/Distance running"
+      }
+    }, {
+      "sequence": "3",
+      "topic": {
+        "topicId": "27",
+        "topicName": "Running",
+        "topicTaxonomy": "Endurance/Running"
+      }
+    }, {
+      "sequence": "4",
+      "topic": {
+        "topicId": "282",
+        "topicName": "Track running",
+        "topicTaxonomy": "Endurance/Running/Track running"
+      }
+    }],
+    "salesEndDate": "2016-08-02T23:59:00",
+    "regReqGenderCd": "",
+    "registrationUrlAdr": "http://www.active.com/hinsdale-ma/running/distance-running-camps/berkshire-running-camp-2016",
+    "retryDate": "2016-08-03T19:26:25",
+    "evergreenAssets": [],
+    "assetSeoUrls": [{
+      "seoSystemName": "as3",
+      "statusCode": "true",
+      "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fhinsdale-ma%2Frunning%2Fdistance-running-camps%2Fberkshire-running-camp-2016?cmp=39-34-405166"
+    }],
+    "publishDate": null,
+    "assetChannels": [{
+      "sequence": "1",
+      "channel": {
+        "channelDsc": "Running",
+        "channelName": "Running",
+        "channelId": "1020"
+      }
+    }],
+    "sorCreateDtm": "2015-10-01T00:08:00",
+    "localeCd": "en_US",
+    "activityRecurrences": [{
+      "frequencyInterval": "1",
+      "activityStartDate": "2016-08-16T00:00:00",
+      "activityExclusions": [],
+      "activityEndDate": "2016-08-21T23:59:00",
+      "days": "Sunday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+      "startTime": "",
+      "endTime": "",
+      "frequency": {
+        "frequencyName": "Daily"
+      }
+    }],
+    "assetLegacyData": {
+      "maxTeamNb": "",
+      "assetTypeId": "",
+      "costAmt": "",
+      "typeName": "",
+      "uploadSearchUrlAdr": "",
+      "avgUserRatingTxt": "",
+      "trackbackUrl": "",
+      "seoUrl": "",
+      "eventCategories": "",
+      "estParticipantNb": "",
+      "participationCriteriaTxt": "",
+      "priceExtensionTxt": "",
+      "isSearchable": "false",
+      "onlineMembership": "",
+      "minGuaranteedGameNb": "",
+      "searchWeight": "",
+      "userCommentTxt": "",
+      "substitutionUrl": "",
+      "onlineDonation": "",
+      "genderRequirementTxt": "",
+      "createdDate": "2015-10-01T00:58:16",
+      "onlineMembershipCostAmt": "",
+      "authorName": "",
+      "onlineRegistration": "true",
+      "modifiedDate": "2016-08-03T23:16:00",
+      "multipleStartDate": ""
+    },
+    "activityEndDate": "2016-08-21T23:59:00",
+    "assetDeals": [],
+    "assetServiceHostName": "as-app05",
+    "childIndex": "",
+    "assetDescriptions": [{
+      "descriptionType": {
+        "descriptionTypeName": "Standard",
+        "descriptionTypeId": "6"
+      },
+      "description": "The Berkshire Running Camp is a truly unique experience, providing runners with all of the training, teambuilding, and leadership tools to become better runners, teammates, and young men and women. In addition to our outstanding training regimen, which we will work into the runners' summer training programs, athletes will communicate with our staff and one another during small group sessions to discuss all of the components of being the best runners they can be. In addition, there will be teambuilding adventure activities each day to unlock the leadership potential for each athlete."
+    }],
+    "componentInUrlAdr": {},
+    "activityStartDate": "2016-08-16T00:00:00",
+    "contactName": "James Rooney",
+    "sorCreateUserId": "",
+    "localTimeZoneId": "",
+    "contactEmailAdr": "berkshirerunningcamp@gmail.com",
+    "socialMedia": [],
+    "donationUrlAdr": "",
+    "activenetTopGraphic": {},
+    "assetReferences": [],
+    "market": {
+      "marketName": "camps-any",
+      "marketId": "1"
+    },
+    "assetAttributes": [{
+      "attribute": {
+        "tagId": "58745",
+        "attributeValue": "Overnight",
+        "attributeType": "Camp type"
+      }
+    }],
+    "timezoneAbb": "",
+    "assetMediaTypes": [{
+      "sequence": "1",
+      "mediaType": {
+        "mediaTypeName": "Camp",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "1"
+      }
+    }],
+    "evergreenAssetFlag": "false",
+    "authorName": "",
+    "registrantSearchUrlAdr": "",
+    "modifiedDate": "2016-08-03T23:16:28",
+    "timezoneName": "",
+    "showContact": "false",
+    "assetParentAsset": {},
+    "assetStatus": {
+      "assetStatusId": "2",
+      "assetStatusName": "VISIBLE"
+    },
+    "regReqMaxAge": null,
+    "currencyCd": "USD",
+    "resultsUrlAdr": "",
+    "assetImages": [],
+    "evergreenParentAsset": {},
+    "sourceSystem": {
+      "sourceSystemName": "AW Camps 3.0",
+      "legacyGuid": "89208dba-f535-4950-880a-34a6888a184c",
+      "affiliate": "false"
+    },
+    "assetGuid": "e7e6a2fb-1a57-4076-8dc8-f19b949e50bc",
+    "timezone": "US/Eastern",
+    "assetRootAsset": {},
+    "assetTags": [{
+      "tag": {
+        "tagId": "32308",
+        "tagName": "true",
+        "tagDescription": "activeadvantage"
+      }
+    }, {
+      "tag": {
+        "tagId": "58745",
+        "tagName": "Overnight",
+        "tagDescription": "Camp type"
+      }
+    }],
+    "assetPopularity": {
+      "searches": 2,
+      "createdAt": 1471393787,
+      "clickTypes": {
+        "otherActive": 47,
+        "registration": 0,
+        "nonActive": 3
+      },
+      "clicks": 50,
+      "rank": 257,
+      "results": 23,
+      "views": 74,
+      "A3Rank": 114
+    },
+    "preferredUrlAdr": "",
+    "logoUrlAdr": "http://photos-images.active.com/file/3/1/original/ee960b12-be3c-4c25-9b6b-90a7455c793e.png",
+    "assetPrices": [{
+      "effectiveFromVolume": "0",
+      "priceAmt": 595,
+      "maxPriceAmt": null,
+      "effectiveUntilDate": null,
+      "minPriceAmt": null,
+      "effectiveToVolume": "0",
+      "dynamicPricing": "false",
+      "volumePricing": "false"
+    }],
+    "detailPageTemplateId": "",
+    "assetComponents": [{
+      "sequence": "1",
+      "activityStartDate": "2016-08-16T00:00:00",
+      "assetSeoUrls": [],
+      "assetGuid": "d7a8ccee-b7f9-425d-8af0-ba8654b3da28",
+      "activityEndDate": "2016-08-21T23:59:00",
+      "assetName": "Price"
+    }],
+    "teamUrlAdr": "",
+    "sorId": "",
+    "place": {
+      "placeDsc": "",
+      "placeUrlAdr": "",
+      "showPlaceName": "true",
+      "timezone": "America/New_York",
+      "postalCode": "01235",
+      "latitude": "42.438709",
+      "directionsTxt": "",
+      "addressLine2Txt": "770 New Windsor Rd",
+      "geoPoint": {
+        "lon": "-73.123146",
+        "lat": "42.438709"
+      },
+      "addressLine1Txt": "Camp Taconic",
+      "stateProvinceCode": "MA",
+      "localityName": "",
+      "cityName": "Hinsdale",
+      "timezoneOffset": -5,
+      "timezoneDST": 1,
+      "countryCode": "USA",
+      "dma": {
+        "dmaId": "532",
+        "dmaName": "Albany - Schenectady - Troy"
+      },
+      "countryName": "United States",
+      "placeGuid": "28c1aa11-7fba-4798-b17f-de5297c26fe6",
+      "placeName": "Berkshire Running Camp",
+      "longitude": "-73.123146"
+    },
+    "overrideSeourlFlag": "false",
+    "assetCategories": [{
+      "sequence": "1",
+      "category": {
+        "categoryName": "Camps",
+        "categoryId": "11",
+        "categoryTaxonomy": "Event/Camps"
+      }
+    }],
+    "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fhinsdale-ma%2Frunning%2Fdistance-running-camps%2Fberkshire-running-camp-2016?cmp=39-34-405166",
+    "retryCounter": "2",
+    "assetInterests": [],
+    "assetDsc": "",
+    "contactTxt": "",
+    "alternateName": "",
+    "regReqMinAge": null,
+    "createdDate": "2015-10-01T00:58:16",
+    "assetMetaInterests": [],
+    "salesStartDate": "2015-09-30T20:58:00",
+    "homePageUrlAdr": "",
+    "assetQuantity": {
+      "waitlistCnt": "",
+      "soldCnt": "247",
+      "createdDate": "2015-10-01T00:58:16",
+      "availableCnt": "",
+      "modifiedDate": "2016-08-03T23:16:00",
+      "capacityNb": "225",
+      "waitlistCapacityNb": ""
+    },
+    "organization": {
+      "primaryContactName": "",
+      "organizationName": "Berkshire Running Camp",
+      "addressPostalCd": "02061-9998",
+      "sourceSystemId": "98",
+      "imageUrlAdr": "",
+      "addressCityName": "Norwell",
+      "organizationGuid": "ffb87012-64f4-47c1-bbc1-eee2581afc0c",
+      "addressLine2Txt": "",
+      "primaryContactPhone": "508-367-0474",
+      "shortDsc": "",
+      "addressLine1Txt": "PO Box 50",
+      "addressLocalityName": "",
+      "organizationDsc": "<p><strong><span style=\"color: rgb(255, 255, 255); font-family: Basic, sans-serif; font-size: 18px; font-style: normal; font-variant-caps: normal;\">The Berkshire Running Camp want to help make you a different runner. A faster, stronger, smarter runner. A better teamate, a better leader, a better person. Join us in the Berkshire mountains for a week of training the body and mind.&nbsp;Experience the Difference~&nbsp;BRC</span></strong></p> ",
+      "organizationUrlAdr": "",
+      "hideOrganizationContact": "false",
+      "isDeleted": "false",
+      "addressStateProvinceCode": "MA",
+      "sourceSystemGuid": "89208dba-f535-4950-880a-34a6888a184c",
+      "addressCountryCd": "USA",
+      "showOrganizationName": "true",
+      "fax": ""
+    },
+    "assetName": "Berkshire Running Camp",
+    "contactPhone": "508-367-0474",
+    "searchScore": null,
+    "assetVersion": 87,
+    "salesStatus": "registration-closed"
+  }, {
+    "assetTopics": [],
+    "salesEndDate": "2016-08-05T23:59:00",
+    "regReqGenderCd": "",
+    "registrationUrlAdr": "http://www.active.com/norwell-ma/camps/berkshire-running-camp-2016",
+    "retryDate": "2016-07-07T11:14:51",
+    "evergreenAssets": [],
+    "assetSeoUrls": [{
+      "seoSystemName": "as3",
+      "statusCode": "true",
+      "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fnorwell-ma%2Fcamps%2Fberkshire-running-camp-2016?cmp=39-34-405166"
+    }],
+    "publishDate": null,
+    "assetChannels": [],
+    "sorCreateDtm": null,
+    "localeCd": "",
+    "activityRecurrences": [{
+      "frequencyInterval": "1",
+      "activityStartDate": "2016-08-16T00:00:00",
+      "activityExclusions": [],
+      "activityEndDate": "2016-08-21T23:59:59",
+      "days": "Sunday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+      "startTime": "",
+      "endTime": "",
+      "frequency": {
+        "frequencyName": "Daily"
+      }
+    }],
+    "assetLegacyData": {
+      "maxTeamNb": "",
+      "assetTypeId": "2b22b4e6-5aa4-44d7-bf06-f7a71f9fa8a6",
+      "costAmt": "",
+      "typeName": "",
+      "uploadSearchUrlAdr": "",
+      "avgUserRatingTxt": "",
+      "trackbackUrl": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fpage%2Fcamps_details_fn.htm%3Fagency_id%3Dd34cd93a-c3a5-4c59-a7ec-665f4fbf7247?cmp=39-34-405166",
+      "seoUrl": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Funknown-camp%2Fnorwell-ma%2Fberkshire-running-camp?cmp=39-34-405166",
+      "eventCategories": "",
+      "estParticipantNb": "",
+      "participationCriteriaTxt": "",
+      "priceExtensionTxt": "",
+      "isSearchable": "false",
+      "onlineMembership": "false",
+      "minGuaranteedGameNb": "",
+      "searchWeight": "1",
+      "userCommentTxt": "",
+      "substitutionUrl": "d34cd93a-c3a5-4c59-a7ec-665f4fbf7247",
+      "onlineDonation": "false",
+      "genderRequirementTxt": "",
+      "createdDate": "2013-01-28T15:19:40",
+      "onlineMembershipCostAmt": "",
+      "authorName": "",
+      "onlineRegistration": "true",
+      "modifiedDate": "2016-07-07T15:05:15",
+      "multipleStartDate": "false"
+    },
+    "activityEndDate": "2016-08-21T23:59:59",
+    "assetDeals": [],
+    "assetServiceHostName": "as-app07",
+    "childIndex": "",
+    "assetDescriptions": [{
+      "descriptionType": {
+        "descriptionTypeName": "summary",
+        "descriptionTypeId": "4"
+      },
+      "description": "<p><strong><span style=\"color: rgb(255, 255, 255); font-family: Basic, sans-serif; font-size: 18px; font-style: normal; font-variant-caps: normal;\">The Berkshire Running Camp want to help make you a different runner. A faster, stronger, smarter runner. A better teamate, a better leader, a better person. Join us in the Berkshire mountains for a week of training the body and mind.&nbsp;Experience the Difference~&nbsp;BRC</span></strong></p>"
+    }],
+    "componentInUrlAdr": {},
+    "activityStartDate": "2016-08-16T00:00:00",
+    "contactName": "",
+    "sorCreateUserId": "",
+    "localTimeZoneId": "",
+    "contactEmailAdr": "berkshirerunningcamp@gmail.com",
+    "socialMedia": [],
+    "donationUrlAdr": "",
+    "activenetTopGraphic": {},
+    "assetReferences": [],
+    "market": {
+      "marketName": "camps-any",
+      "marketId": "1"
+    },
+    "assetAttributes": [],
+    "timezoneAbb": "",
+    "assetMediaTypes": [{
+      "sequence": "1",
+      "mediaType": {
+        "mediaTypeName": "Camp",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "1"
+      }
+    }],
+    "evergreenAssetFlag": "false",
+    "authorName": "",
+    "registrantSearchUrlAdr": "",
+    "modifiedDate": "2016-07-07T15:04:54",
+    "timezoneName": "",
+    "showContact": "false",
+    "assetParentAsset": {},
+    "assetStatus": {
+      "assetStatusId": "2",
+      "assetStatusName": "VISIBLE"
+    },
+    "regReqMaxAge": null,
+    "currencyCd": "",
+    "resultsUrlAdr": "",
+    "assetImages": [{
+      "imageName": "image1",
+      "imageCaptionTxt": "",
+      "linkTarget": "",
+      "imageUrlAdr": "http://photos-images.active.com/file/3/1/original/ee960b12-be3c-4c25-9b6b-90a7455c793e.png",
+      "linkUrl": "",
+      "imageType": "IMAGE"
+    }],
+    "evergreenParentAsset": {},
+    "sourceSystem": {
+      "sourceSystemName": "ActiveWorks Camps",
+      "legacyGuid": "2b22b4e6-5aa4-44d7-bf06-f7a71f9fa8a6",
+      "affiliate": "true"
+    },
+    "assetGuid": "d34cd93a-c3a5-4c59-a7ec-665f4fbf7247",
+    "timezone": "",
+    "assetRootAsset": {},
+    "assetTags": [],
+    "assetPopularity": {
+      "searches": 30,
+      "createdAt": 1471393799,
+      "clickTypes": {
+        "otherActive": 50,
+        "registration": 7,
+        "nonActive": 4
+      },
+      "clicks": 61,
+      "rank": 499,
+      "results": 62,
+      "views": 55,
+      "A3Rank": 221
+    },
+    "preferredUrlAdr": "",
+    "logoUrlAdr": "http://photos-images.active.com/file/3/1/original/ee960b12-be3c-4c25-9b6b-90a7455c793e.png",
+    "assetPrices": [],
+    "detailPageTemplateId": "",
+    "assetComponents": [{
+      "activityStartDate": "2016-08-16T00:00:00",
+      "assetSeoUrls": [],
+      "assetGuid": "4ad6058b-e7b2-46c6-946d-981b6e178715",
+      "activityEndDate": "2016-08-21T23:59:59",
+      "assetName": "Berkshire Running Camp 2016"
+    }],
+    "teamUrlAdr": "",
+    "sorId": "",
+    "place": {
+      "placeDsc": "",
+      "placeUrlAdr": "",
+      "timezone": "America/New_York",
+      "postalCode": "02061-9998",
+      "latitude": "42.161516",
+      "directionsTxt": "",
+      "addressLine2Txt": "",
+      "geoPoint": {
+        "lon": "-70.792783",
+        "lat": "42.161516"
+      },
+      "addressLine1Txt": "PO Box 50",
+      "stateProvinceCode": "MA",
+      "localityName": "",
+      "cityName": "Norwell",
+      "timezoneOffset": -5,
+      "timezoneDST": 1,
+      "countryCode": "USA",
+      "countryName": "United States",
+      "placeGuid": "27c1a95c-3601-43ca-a01b-0afe61647d59",
+      "placeName": "Berkshire Running Camp",
+      "longitude": "-70.792783"
+    },
+    "overrideSeourlFlag": "false",
+    "assetCategories": [{
+      "sequence": "1",
+      "category": {
+        "categoryName": "Camps",
+        "categoryId": "11",
+        "categoryTaxonomy": "Event/Camps"
+      }
+    }],
+    "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fnorwell-ma%2Fcamps%2Fberkshire-running-camp-2016?cmp=39-34-405166",
+    "retryCounter": "3",
+    "assetInterests": [],
+    "assetDsc": "",
+    "contactTxt": "",
+    "alternateName": "",
+    "regReqMinAge": null,
+    "createdDate": "2013-01-28T15:19:40",
+    "assetMetaInterests": [],
+    "salesStartDate": "2015-09-30T20:58:11",
+    "homePageUrlAdr": "",
+    "assetQuantity": {},
+    "organization": {
+      "primaryContactName": "",
+      "organizationName": " ",
+      "addressPostalCd": "",
+      "sourceSystemId": "11",
+      "imageUrlAdr": "",
+      "addressCityName": "",
+      "organizationGuid": "5d6cc999-2833-44da-9f76-ae8cf22250c7",
+      "addressLine2Txt": "",
+      "primaryContactPhone": "",
+      "shortDsc": "",
+      "addressLine1Txt": "",
+      "addressLocalityName": "",
+      "organizationDsc": "<p><strong><span style=\"color: rgb(255, 255, 255); font-family: Basic, sans-serif; font-size: 18px; font-style: normal; font-variant-caps: normal;\">The Berkshire Running Camp want to help make you a different runner. A faster, stronger, smarter runner. A better teamate, a better leader, a better person. Join us in the Berkshire mountains for a week of training the body and mind.&nbsp;Experience the Difference~&nbsp;BRC</span></strong></p> ",
+      "organizationUrlAdr": "",
+      "hideOrganizationContact": "false",
+      "isDeleted": "false",
+      "addressStateProvinceCode": "",
+      "sourceSystemGuid": "2b22b4e6-5aa4-44d7-bf06-f7a71f9fa8a6",
+      "addressCountryCd": "",
+      "showOrganizationName": "false",
+      "fax": ""
+    },
+    "assetName": "Berkshire Running Camp",
+    "contactPhone": "508-367-0474",
+    "searchScore": null,
+    "assetVersion": 84,
+    "salesStatus": "registration-closed"
+  }, {
+    "assetTopics": [{
+      "sequence": "1",
+      "topic": {
+        "topicId": "47",
+        "topicName": "Baseball",
+        "topicTaxonomy": "Sports/Baseball"
+      }
+    }],
+    "salesEndDate": "2016-09-21T23:59:00",
+    "regReqGenderCd": "",
+    "registrationUrlAdr": "http://www.active.com/northborough-ma-01532-ma/baseball/baseball-programs/hero-home-run-baseball-2016",
+    "retryDate": "2016-08-16T17:44:52",
+    "evergreenAssets": [],
+    "assetSeoUrls": [{
+      "seoSystemName": "as3",
+      "statusCode": "true",
+      "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fnorthborough-ma-01532-ma%2Fbaseball%2Fbaseball-programs%2Fhero-home-run-baseball-2016?cmp=39-34-405166"
+    }],
+    "publishDate": null,
+    "assetChannels": [{
+      "sequence": "1",
+      "channel": {
+        "channelDsc": "Baseball",
+        "channelName": "Baseball",
+        "channelId": "1002"
+      }
+    }],
+    "sorCreateDtm": "2016-06-20T17:29:00",
+    "localeCd": "en_US",
+    "activityRecurrences": [{
+      "frequencyInterval": "0",
+      "activityStartDate": "2016-08-17T11:15:00",
+      "activityExclusions": [],
+      "activityEndDate": "2016-09-21T12:15:00",
+      "days": "Wednesday",
+      "startTime": "11:15:00",
+      "endTime": "12:15:00",
+      "frequency": {
+        "frequencyName": "Weekly"
+      }
+    }],
+    "assetLegacyData": {
+      "maxTeamNb": "",
+      "assetTypeId": "",
+      "costAmt": "",
+      "typeName": "",
+      "uploadSearchUrlAdr": "",
+      "avgUserRatingTxt": "",
+      "trackbackUrl": "",
+      "seoUrl": "",
+      "eventCategories": "",
+      "estParticipantNb": "",
+      "participationCriteriaTxt": "",
+      "priceExtensionTxt": "",
+      "isSearchable": "false",
+      "onlineMembership": "",
+      "minGuaranteedGameNb": "",
+      "searchWeight": "",
+      "userCommentTxt": "",
+      "substitutionUrl": "",
+      "onlineDonation": "",
+      "genderRequirementTxt": "",
+      "createdDate": "2016-06-20T17:28:07",
+      "onlineMembershipCostAmt": "",
+      "authorName": "",
+      "onlineRegistration": "true",
+      "modifiedDate": "2016-08-16T21:31:52",
+      "multipleStartDate": ""
+    },
+    "activityEndDate": "2016-09-21T12:15:00",
+    "assetDeals": [],
+    "assetServiceHostName": "as-app06",
+    "childIndex": "",
+    "assetDescriptions": [{
+      "descriptionType": {
+        "descriptionTypeName": "Standard",
+        "descriptionTypeId": "6"
+      },
+      "description": "Specialized sports program utilizing biometric exercises that will promote the development of gross motor skills, coordination and balance   BASEBALL: Ready positions, throwing, catching, running the bases, hitting, learning the field & fielding, full game  We not only teach sports fundamentals, sportsmanship & how to become a team player, we also teach the importance of nutrition and healthy lifestyle choices. It’s our goal to help children form positive habits that they will carry with them throughout their lives."
+    }],
+    "componentInUrlAdr": {},
+    "activityStartDate": "2016-08-17T11:15:00",
+    "contactName": "",
+    "sorCreateUserId": "",
+    "localTimeZoneId": "",
+    "contactEmailAdr": "coachmike@herokidsports.com",
+    "socialMedia": [],
+    "donationUrlAdr": "",
+    "activenetTopGraphic": {},
+    "assetReferences": [],
+    "market": {
+      "marketName": "camps-any",
+      "marketId": "1"
+    },
+    "assetAttributes": [{
+      "attribute": {
+        "tagId": "58744",
+        "attributeValue": "Day",
+        "attributeType": "Camp type"
+      }
+    }],
+    "timezoneAbb": "",
+    "assetMediaTypes": [],
+    "evergreenAssetFlag": "false",
+    "authorName": "",
+    "registrantSearchUrlAdr": "",
+    "modifiedDate": "2016-08-16T21:31:52",
+    "timezoneName": "",
+    "showContact": "false",
+    "assetParentAsset": {},
+    "assetStatus": {
+      "assetStatusId": "2",
+      "assetStatusName": "VISIBLE"
+    },
+    "regReqMaxAge": 6,
+    "currencyCd": "USD",
+    "resultsUrlAdr": "",
+    "assetImages": [],
+    "evergreenParentAsset": {},
+    "sourceSystem": {
+      "sourceSystemName": "AW Camps 3.0",
+      "legacyGuid": "89208dba-f535-4950-880a-34a6888a184c",
+      "affiliate": "false"
+    },
+    "assetGuid": "429f5b41-a2e3-40a8-9075-05b47a2b239f",
+    "timezone": "US/Eastern",
+    "assetRootAsset": {},
+    "assetTags": [{
+      "tag": {
+        "tagId": "32308",
+        "tagName": "true",
+        "tagDescription": "activeadvantage"
+      }
+    }, {
+      "tag": {
+        "tagId": "58744",
+        "tagName": "Day",
+        "tagDescription": "Camp type"
+      }
+    }],
+    "assetPopularity": {
+      "searches": 0,
+      "createdAt": 1471393787,
+      "clickTypes": {
+        "otherActive": 1,
+        "registration": 0,
+        "nonActive": 3
+      },
+      "clicks": 4,
+      "rank": 55,
+      "results": 36,
+      "views": 7,
+      "A3Rank": 25
+    },
+    "preferredUrlAdr": "",
+    "logoUrlAdr": "http://photos-images.active.com/file/3/1/original/3fed7209-3671-41ac-8db2-957b65a55e82.jpg",
+    "assetPrices": [{
+      "effectiveFromVolume": "0",
+      "priceAmt": 90,
+      "maxPriceAmt": null,
+      "effectiveUntilDate": null,
+      "minPriceAmt": null,
+      "effectiveToVolume": "0",
+      "dynamicPricing": "false",
+      "volumePricing": "false"
+    }],
+    "detailPageTemplateId": "",
+    "assetComponents": [{
+      "sequence": "1",
+      "activityStartDate": "2016-08-17T11:15:00",
+      "assetSeoUrls": [],
+      "assetGuid": "8750531b-199c-4647-9222-dcea10992b38",
+      "activityEndDate": "2016-09-21T12:15:00",
+      "assetName": "Skribbles W.Main St Price"
+    }],
+    "teamUrlAdr": "",
+    "sorId": "",
+    "place": {
+      "placeDsc": "",
+      "placeUrlAdr": "",
+      "showPlaceName": "true",
+      "timezone": "America/New_York",
+      "postalCode": "01532",
+      "latitude": "42.30614",
+      "directionsTxt": "",
+      "addressLine2Txt": "",
+      "geoPoint": {
+        "lon": "-71.659685",
+        "lat": "42.30614"
+      },
+      "addressLine1Txt": "325 W Main St",
+      "stateProvinceCode": "MA",
+      "localityName": "",
+      "cityName": "Northborough, MA 01532",
+      "timezoneOffset": -5,
+      "timezoneDST": 1,
+      "countryCode": "USA",
+      "dma": {
+        "dmaId": "506",
+        "dmaName": "Boston (Manchester)"
+      },
+      "countryName": "United States",
+      "placeGuid": "3d73c6e3-a68b-4357-86d7-bbec2bfe878a",
+      "placeName": "Skribbles West Main St.",
+      "longitude": "-71.659685"
+    },
+    "overrideSeourlFlag": "false",
+    "assetCategories": [{
+      "sequence": "1",
+      "category": {
+        "categoryName": "Programs",
+        "categoryId": "79",
+        "categoryTaxonomy": "Event/Programs"
+      }
+    }],
+    "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fnorthborough-ma-01532-ma%2Fbaseball%2Fbaseball-programs%2Fhero-home-run-baseball-2016?cmp=39-34-405166",
+    "retryCounter": "2",
+    "assetInterests": [],
+    "assetDsc": "",
+    "contactTxt": "",
+    "alternateName": "",
+    "regReqMinAge": 2,
+    "createdDate": "2016-06-20T17:28:07",
+    "assetMetaInterests": [{
+      "sequence": "1",
+      "metaInterest": {
+        "metaInterestId": "4",
+        "metaInterestTaxonomy": "Kids",
+        "metaInterestName": "Kids"
+      }
+    }],
+    "salesStartDate": "2015-10-01T12:45:00",
+    "homePageUrlAdr": "",
+    "assetQuantity": {
+      "waitlistCnt": "",
+      "soldCnt": "0",
+      "createdDate": "2016-06-20T17:28:07",
+      "availableCnt": "0",
+      "modifiedDate": "2016-08-16T21:31:52",
+      "capacityNb": "0",
+      "waitlistCapacityNb": ""
+    },
+    "organization": {
+      "primaryContactName": "",
+      "organizationName": "HERO Kids Sports",
+      "addressPostalCd": "02116",
+      "sourceSystemId": "98",
+      "imageUrlAdr": "",
+      "addressCityName": "Boston",
+      "organizationGuid": "51afdb4d-627c-43f4-8d22-fcf461d7b02b",
+      "addressLine2Txt": "",
+      "primaryContactPhone": "(857) 400-8858",
+      "shortDsc": "",
+      "addressLine1Txt": "Boylston St",
+      "addressLocalityName": "",
+      "organizationDsc": "<p>Vistit us today at: http://www.HEROKidSports.com/</p>  <p>Sports enrichment programs specializing in ages 2-10 years of age!&nbsp;</p>  <p>Greater Boston Area!&nbsp;</p>  <p>&nbsp;</p>  <p>Welcome to HERO Kids Sports.<br /> Our promise: Fitness, Nutrition, Friends &amp; Fun!</p>  <p>We have devised a specialized program that coaches kids in the&nbsp;fundamentals of their chosen sport, one step at a time.</p>  <p>Every program is specifically&nbsp;designed to teach your child the fundamentals of the sport and to learn how to be part of a team. We&nbsp;emphasize that no HERO works alone and can only succeed through&nbsp;helping others.&nbsp;</p>  <p>Our programs start out with&nbsp;warm up sessions designed to&nbsp;teach children how to properly &nbsp;prepare for exercise. Each week marks the completion of&nbsp;a new milestone in the basics of the sport. Join our HERO Kids Sports team&nbsp;today!&nbsp;</p>  <p>HERO Kids Sports currently hosts 8 different sports for a period of six&nbsp;weeks at a time. We come to you and your kid at the school that they&nbsp;attend!&nbsp;</p>  <p>If you do not see a sport that you would love to get your kid involved in,&nbsp;just let us know and we will work out the rest! Below is a brief&nbsp;description of each of the sports. For a more detailed breakdown of&nbsp;what each week entails, please contact us directly!</p>  <p><strong>What HERO Believes:</strong><br /> &bull; Hero Kids Sports believes every child can succeed in life by developing&nbsp;confidence, motivation and a sense of belonging.<br /> &bull; All kids are capable and have the ability to be good at sports; they just&nbsp;need a little encouragement to learn.<br /> &bull; Younger, brighter minds! Our unique focus is 2-10 years of age. We know&nbsp;from years of experience of working with kids that the earlier kids&nbsp;start in sports, the more fun they have and the more they want to&nbsp;learn!</p>  <p><strong>What HERO Does:</strong><br /> &bull; We come to your school, park, house or residence to teach kids the&nbsp;fundamentals of sports.<br /> &bull; Through a unique child-focused introduction to team sports, we provide&nbsp;exceptional education in an inspiring atmosphere.<br /> &bull; HERO Kids Sports equips kids with the basics of a variety of athletics so&nbsp;that everyone can play as a team.<br /> &bull; Our program connects the essential components of a healthy life: being&nbsp;fit, eating healthy, having friends and feeling successful.</p>  <p>&nbsp;</p>  <p><span style=\"color: rgb(96, 94, 94); font-family: museo-w01-700, serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal;\">We are currently operating in the greater Boston area.&nbsp;</span><span style=\"border-style: initial; outline: 0px; color: rgb(96, 94, 94); font-family: museo-w01-700, serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal; text-decoration: underline; background: transparent;\"><a href=\"http://www.herokidsports.com/#!contact/c24vq\" style=\"border-style: initial; outline: 0px; color: inherit; background: transparent;\" target=\"_self\">Contact us</a></span><span style=\"color: rgb(96, 94, 94); font-family: museo-w01-700, serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal;\">&nbsp;directly by phone or email to find out if&nbsp;HERO&nbsp;is at your kid&rsquo;s school!</span></p> ",
+      "organizationUrlAdr": "",
+      "hideOrganizationContact": "false",
+      "isDeleted": "false",
+      "addressStateProvinceCode": "MA",
+      "sourceSystemGuid": "89208dba-f535-4950-880a-34a6888a184c",
+      "addressCountryCd": "USA",
+      "showOrganizationName": "true",
+      "fax": ""
+    },
+    "assetName": "HERO Home Run Baseball",
+    "contactPhone": "(857) 400-8858",
+    "searchScore": null,
+    "assetVersion": 63,
+    "salesStatus": "registration-open"
+  }, {
+    "assetTopics": [{
+      "sequence": "1",
+      "topic": {
+        "topicId": "278",
+        "topicName": "Distance running",
+        "topicTaxonomy": "Endurance/Running/Distance running"
+      }
+    }, {
+      "sequence": "2",
+      "topic": {
+        "topicId": "451",
+        "topicName": "Swimming",
+        "topicTaxonomy": "Sports/Water sports/Swimming"
+      }
+    }, {
+      "sequence": "3",
+      "topic": {
+        "topicId": "29",
+        "topicName": "Walking",
+        "topicTaxonomy": "Endurance/Walking"
+      }
+    }, {
+      "sequence": "4",
+      "topic": {
+        "topicId": "27",
+        "topicName": "Running",
+        "topicTaxonomy": "Endurance/Running"
+      }
+    }],
+    "salesEndDate": null,
+    "regReqGenderCd": "",
+    "registrationUrlAdr": "http://www.active.com/brewster-ma/running/distance-running-races/against-the-tide-cape-cod-2016",
+    "retryDate": "2016-04-19T13:36:41",
+    "evergreenAssets": [],
+    "assetSeoUrls": [{
+      "seoSystemName": "as3",
+      "statusCode": "true",
+      "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fbrewster-ma%2Frunning%2Fdistance-running-races%2Fagainst-the-tide-cape-cod-2016?cmp=39-34-405166"
+    }],
+    "publishDate": null,
+    "assetChannels": [{
+      "sequence": "1",
+      "channel": {
+        "channelDsc": "Running",
+        "channelName": "Running",
+        "channelId": "1020"
+      }
+    }, {
+      "sequence": "2",
+      "channel": {
+        "channelDsc": "Swimming",
+        "channelName": "Swimming",
+        "channelId": "1024"
+      }
+    }],
+    "sorCreateDtm": null,
+    "localeCd": "",
+    "activityRecurrences": [{
+      "frequencyInterval": "1",
+      "activityStartDate": "2016-08-20T04:00:00",
+      "activityExclusions": [],
+      "activityEndDate": "2016-08-21T03:59:59",
+      "days": "Sunday, Saturday",
+      "startTime": "",
+      "endTime": "",
+      "frequency": {
+        "frequencyName": "Daily"
+      }
+    }],
+    "assetLegacyData": {
+      "maxTeamNb": "",
+      "assetTypeId": "dfaa997a-d591-44ca-9fb7-bf4a4c8984f1",
+      "costAmt": "",
+      "typeName": "",
+      "uploadSearchUrlAdr": "",
+      "avgUserRatingTxt": "",
+      "trackbackUrl": "",
+      "seoUrl": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2F10k-race%2Fbrewster-ma%2Fagainst-the-tide-cape-cod-2016?cmp=39-34-405166",
+      "eventCategories": "",
+      "estParticipantNb": "",
+      "participationCriteriaTxt": "Family",
+      "priceExtensionTxt": "",
+      "isSearchable": "false",
+      "onlineMembership": "",
+      "minGuaranteedGameNb": "",
+      "searchWeight": "",
+      "userCommentTxt": "",
+      "substitutionUrl": "E-017S6Y5B",
+      "onlineDonation": "",
+      "genderRequirementTxt": "",
+      "createdDate": "2016-04-13T14:39:18",
+      "onlineMembershipCostAmt": "",
+      "authorName": "",
+      "onlineRegistration": "true",
+      "modifiedDate": "2016-04-19T17:26:35",
+      "multipleStartDate": ""
+    },
+    "activityEndDate": "2016-08-21T03:59:59",
+    "assetDeals": [],
+    "assetServiceHostName": "as-app03.active.tan",
+    "childIndex": "",
+    "assetDescriptions": [{
+      "descriptionType": {
+        "descriptionTypeName": "Standard",
+        "descriptionTypeId": "6"
+      },
+      "description": "<p><span>Against the Tide is a multi-sport event in support of the Massachusetts Breast Cancer Coalition. This inspiring, family-friendly event includes USATF-certified 5K and 10K runs, along with competitive and recreational 1 mile swims, a 2 mile kayak, a 3 mile fitness walk and an Aquathon. All proceeds benefit the Massachusetts Breast Cancer Coalition's mission of breast cancer prevention.</span></p><h4>Event details and schedule</h4><p></p><p><strong>Event Schedule:</strong></p> <p>Please note that awards will be presented throughout the morning.</p> <p><strong>7:00AM &nbsp;&nbsp;</strong>-- Registration Opens. Please plan to visit the registration tent at least 1 hour in advance of the first event activity you will be participating in.</p> <p>8:30AM &nbsp;&nbsp;-- 1 mile Competitive Swim/Aquathon</p> <p>8:30AM &nbsp;&nbsp;-- USATF Certified 5K/10K Runs</p> <p>8:50AM &nbsp;&nbsp;-- 3&nbsp;mile Walk</p> <p>9:45AM &nbsp;&nbsp;-- 1 mile Recreational Swim</p> <p>10:45AM &nbsp;-- 2 mile Kayak</p> <p><strong>11:30AM &nbsp;</strong>-- Closing Ceremony</p>"
+    }],
+    "componentInUrlAdr": {},
+    "activityStartDate": "2016-08-20T04:00:00",
+    "contactName": "",
+    "sorCreateUserId": "",
+    "localTimeZoneId": "US/Eastern",
+    "contactEmailAdr": "",
+    "socialMedia": [],
+    "donationUrlAdr": "",
+    "activenetTopGraphic": {},
+    "assetReferences": [],
+    "market": {
+      "marketName": "endurance-running",
+      "marketId": "8"
+    },
+    "assetAttributes": [{
+      "attribute": {
+        "tagId": "58739",
+        "attributeValue": "Intermediate",
+        "attributeType": "Skill level"
+      }
+    }, {
+      "attribute": {
+        "tagId": "58709",
+        "attributeValue": "1 Mile",
+        "attributeType": "Distance (running)"
+      }
+    }, {
+      "attribute": {
+        "tagId": "58707",
+        "attributeValue": "10K",
+        "attributeType": "Distance (running)"
+      }
+    }, {
+      "attribute": {
+        "tagId": "58738",
+        "attributeValue": "Beginner",
+        "attributeType": "Skill level"
+      }
+    }, {
+      "attribute": {
+        "tagId": "58705",
+        "attributeValue": "5K",
+        "attributeType": "Distance (running)"
+      }
+    }],
+    "timezoneAbb": "",
+    "assetMediaTypes": [{
+      "sequence": "1",
+      "mediaType": {
+        "mediaTypeName": "difficulty:Beginner",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "78"
+      }
+    }, {
+      "sequence": "2",
+      "mediaType": {
+        "mediaTypeName": "difficulty:Intermediate",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "166"
+      }
+    }, {
+      "sequence": "3",
+      "mediaType": {
+        "mediaTypeName": "5K",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "11"
+      }
+    }, {
+      "sequence": "4",
+      "mediaType": {
+        "mediaTypeName": "1 Mile",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "358"
+      }
+    }, {
+      "sequence": "5",
+      "mediaType": {
+        "mediaTypeName": "10K",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "12"
+      }
+    }, {
+      "sequence": "6",
+      "mediaType": {
+        "mediaTypeName": "Event",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "2"
+      }
+    }],
+    "evergreenAssetFlag": "false",
+    "authorName": "",
+    "registrantSearchUrlAdr": "https://myevents.active.com/search/registration-search.faces?e=35815452&a=284172502",
+    "modifiedDate": "2016-04-19T17:26:44",
+    "timezoneName": "",
+    "showContact": "false",
+    "assetParentAsset": {},
+    "assetStatus": {
+      "assetStatusId": "2",
+      "assetStatusName": "VISIBLE"
+    },
+    "regReqMaxAge": null,
+    "currencyCd": "USD",
+    "resultsUrlAdr": "",
+    "assetImages": [{
+      "imageName": "",
+      "imageCaptionTxt": "",
+      "linkTarget": "",
+      "imageUrlAdr": "http://photos-images.active.com/file/3/1/original/aa0510b2-a1b2-457a-b84a-2fb846f3dabe.jpg",
+      "linkUrl": "",
+      "imageType": "IMAGE"
+    }, {
+      "imageName": "",
+      "imageCaptionTxt": "",
+      "linkTarget": "",
+      "imageUrlAdr": "http://photos-images.active.com/file/3/1/original/53d0d1e2-594d-41a7-a8c0-c012a46ced9a.jpg",
+      "linkUrl": "",
+      "imageType": "IMAGE"
+    }, {
+      "imageName": "",
+      "imageCaptionTxt": "",
+      "linkTarget": "VIDEO",
+      "imageUrlAdr": "http://www.youtube.com/watch?v=O9c_5BYEDEg",
+      "linkUrl": "",
+      "imageType": "VIDEO"
+    }],
+    "evergreenParentAsset": {},
+    "sourceSystem": {
+      "sourceSystemName": "ActiveWorks Endurance",
+      "legacyGuid": "DFAA997A-D591-44CA-9FB7-BF4A4C8984F1",
+      "affiliate": "true"
+    },
+    "assetGuid": "7a36ff0a-f8a3-485a-8700-12e8a0921a93",
+    "timezone": "UTC",
+    "assetRootAsset": {},
+    "assetTags": [{
+      "tag": {
+        "tagId": "32308",
+        "tagName": "true",
+        "tagDescription": "activeadvantage"
+      }
+    }, {
+      "tag": {
+        "tagId": "58709",
+        "tagName": "1 Mile",
+        "tagDescription": "Distance (running)"
+      }
+    }, {
+      "tag": {
+        "tagId": "125937",
+        "tagName": "false",
+        "tagDescription": "usatsanctioned"
+      }
+    }, {
+      "tag": {
+        "tagId": "58739",
+        "tagName": "Intermediate",
+        "tagDescription": "Skill level"
+      }
+    }, {
+      "tag": {
+        "tagId": "58738",
+        "tagName": "Beginner",
+        "tagDescription": "Skill level"
+      }
+    }, {
+      "tag": {
+        "tagId": "58707",
+        "tagName": "10K",
+        "tagDescription": "Distance (running)"
+      }
+    }, {
+      "tag": {
+        "tagId": "58705",
+        "tagName": "5K",
+        "tagDescription": "Distance (running)"
+      }
+    }],
+    "assetPopularity": {
+      "searches": 1,
+      "createdAt": 1471393751,
+      "clickTypes": {
+        "otherActive": 39,
+        "registration": 0,
+        "nonActive": 31
+      },
+      "clicks": 70,
+      "rank": 408,
+      "results": 53,
+      "views": 140,
+      "A3Rank": 180
+    },
+    "preferredUrlAdr": "",
+    "logoUrlAdr": "http://photos-images.active.com/file/3/1/original/53d0d1e2-594d-41a7-a8c0-c012a46ced9a.jpg",
+    "assetPrices": [],
+    "detailPageTemplateId": "",
+    "assetComponents": [{
+      "sequence": "1",
+      "activityStartDate": "2016-08-20T04:00:00",
+      "assetSeoUrls": [],
+      "assetGuid": "faadd9ef-d793-4fcf-812c-689b8b335925",
+      "activityEndDate": "2016-08-21T03:59:59",
+      "assetName": "Running-5K - Individual Age group/open"
+    }, {
+      "sequence": "2",
+      "activityStartDate": "2016-08-20T04:00:00",
+      "assetSeoUrls": [],
+      "assetGuid": "8bbcf432-1180-466d-8852-7bc10c47f45b",
+      "activityEndDate": "2016-08-21T03:59:59",
+      "assetName": "Running-10K - Individual Age group/open"
+    }, {
+      "sequence": "3",
+      "activityStartDate": "2016-08-20T04:00:00",
+      "assetSeoUrls": [],
+      "assetGuid": "c178a3ed-dc2c-4a7b-b6bb-16235900f606",
+      "activityEndDate": "2016-08-21T03:59:59",
+      "assetName": "Open water swim-1 Mile - Individual Age group/open"
+    }],
+    "teamUrlAdr": "",
+    "sorId": "",
+    "place": {
+      "placeDsc": "",
+      "placeUrlAdr": "",
+      "timezone": "America/New_York",
+      "postalCode": "02631",
+      "latitude": "41.775117",
+      "directionsTxt": "",
+      "addressLine2Txt": "",
+      "geoPoint": {
+        "lon": "-70.03097",
+        "lat": "41.775117"
+      },
+      "addressLine1Txt": "3488 Main Street",
+      "stateProvinceCode": "MA",
+      "localityName": "",
+      "cityName": "Brewster",
+      "timezoneOffset": -5,
+      "timezoneDST": 1,
+      "countryCode": "USA",
+      "dma": {
+        "dmaId": "506",
+        "dmaName": "Boston (Manchester)"
+      },
+      "countryName": "United States",
+      "placeGuid": "7485fef4-a7bc-4953-bf04-f6da90b9fcf9",
+      "placeName": "DCR's Nickerson State Park",
+      "longitude": "-70.03097"
+    },
+    "overrideSeourlFlag": "false",
+    "assetCategories": [{
+      "sequence": "1",
+      "category": {
+        "categoryName": "Races",
+        "categoryId": "22",
+        "categoryTaxonomy": "Event/Races"
+      }
+    }, {
+      "sequence": "2",
+      "category": {
+        "categoryName": "Event",
+        "categoryId": "2",
+        "categoryTaxonomy": "Event"
+      }
+    }],
+    "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fbrewster-ma%2Frunning%2Fdistance-running-races%2Fagainst-the-tide-cape-cod-2016?cmp=39-34-405166",
+    "retryCounter": "2",
+    "assetInterests": [],
+    "assetDsc": "",
+    "contactTxt": "",
+    "alternateName": "",
+    "regReqMinAge": null,
+    "createdDate": "2016-04-13T14:39:18",
+    "assetMetaInterests": [{
+      "sequence": "1",
+      "metaInterest": {
+        "metaInterestId": "1",
+        "metaInterestTaxonomy": "Charitable",
+        "metaInterestName": "Charitable"
+      }
+    }, {
+      "sequence": "2",
+      "metaInterest": {
+        "metaInterestId": "2",
+        "metaInterestTaxonomy": "Family",
+        "metaInterestName": "Family"
+      }
+    }],
+    "salesStartDate": null,
+    "homePageUrlAdr": "http://www.mbcc.org/swim",
+    "assetQuantity": {},
+    "organization": {
+      "primaryContactName": "",
+      "organizationName": "Mass Breast Cancer Coalition",
+      "addressPostalCd": "02370",
+      "sourceSystemId": "9",
+      "imageUrlAdr": "",
+      "addressCityName": "Rockland",
+      "organizationGuid": "a6cee3fe-2cbb-469a-8382-674f7b20d055",
+      "addressLine2Txt": "",
+      "primaryContactPhone": "8006496222",
+      "shortDsc": "",
+      "addressLine1Txt": "P. O. Box 222",
+      "addressLocalityName": "",
+      "organizationDsc": "US",
+      "organizationUrlAdr": "",
+      "hideOrganizationContact": "false",
+      "isDeleted": "false",
+      "addressStateProvinceCode": "MA",
+      "sourceSystemGuid": "dfaa997a-d591-44ca-9fb7-bf4a4c8984f1",
+      "addressCountryCd": "USA",
+      "showOrganizationName": "true",
+      "fax": ""
+    },
+    "assetName": "Against the Tide Cape Cod",
+    "contactPhone": "",
+    "searchScore": null,
+    "assetVersion": 67,
+    "salesStatus": "registration-open"
+  }, {
+    "assetTopics": [{
+      "sequence": "1",
+      "topic": {
+        "topicId": "29",
+        "topicName": "Walking",
+        "topicTaxonomy": "Endurance/Walking"
+      }
+    }, {
+      "sequence": "2",
+      "topic": {
+        "topicId": "27",
+        "topicName": "Running",
+        "topicTaxonomy": "Endurance/Running"
+      }
+    }, {
+      "sequence": "3",
+      "topic": {
+        "topicId": "278",
+        "topicName": "Distance running",
+        "topicTaxonomy": "Endurance/Running/Distance running"
+      }
+    }],
+    "salesEndDate": "2016-08-20T03:59:59",
+    "regReqGenderCd": "",
+    "registrationUrlAdr": "http://www.active.com/brockton-ma/running/distance-running-races/brian-mcsharry-memorial-run-2016",
+    "retryDate": "2016-08-10T19:40:25",
+    "evergreenAssets": [],
+    "assetSeoUrls": [{
+      "seoSystemName": "as3",
+      "statusCode": "true",
+      "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fbrockton-ma%2Frunning%2Fdistance-running-races%2Fbrian-mcsharry-memorial-run-2016?cmp=39-34-405166"
+    }],
+    "publishDate": null,
+    "assetChannels": [{
+      "sequence": "1",
+      "channel": {
+        "channelDsc": "Walking",
+        "channelName": "Walking",
+        "channelId": "1029"
+      }
+    }, {
+      "sequence": "2",
+      "channel": {
+        "channelDsc": "Running",
+        "channelName": "Running",
+        "channelId": "1020"
+      }
+    }],
+    "sorCreateDtm": null,
+    "localeCd": "",
+    "activityRecurrences": [{
+      "frequencyInterval": "1",
+      "activityStartDate": "2016-08-20T04:00:00",
+      "activityExclusions": [],
+      "activityEndDate": "2016-08-21T03:59:59",
+      "days": "Sunday, Saturday",
+      "startTime": "",
+      "endTime": "",
+      "frequency": {
+        "frequencyName": "Daily"
+      }
+    }],
+    "assetLegacyData": {
+      "maxTeamNb": "",
+      "assetTypeId": "dfaa997a-d591-44ca-9fb7-bf4a4c8984f1",
+      "costAmt": "",
+      "typeName": "",
+      "uploadSearchUrlAdr": "",
+      "avgUserRatingTxt": "",
+      "trackbackUrl": "",
+      "seoUrl": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Frunning%2Fbrockton-ma%2Fbrian-mcsharry-memorial-run-2016?cmp=39-34-405166",
+      "eventCategories": "",
+      "estParticipantNb": "",
+      "participationCriteriaTxt": "Family||Kids",
+      "priceExtensionTxt": "",
+      "isSearchable": "false",
+      "onlineMembership": "",
+      "minGuaranteedGameNb": "",
+      "searchWeight": "",
+      "userCommentTxt": "",
+      "substitutionUrl": "E-0185ZC92",
+      "onlineDonation": "",
+      "genderRequirementTxt": "",
+      "createdDate": "2016-04-25T16:59:14",
+      "onlineMembershipCostAmt": "",
+      "authorName": "",
+      "onlineRegistration": "true",
+      "modifiedDate": "2016-08-10T23:29:54",
+      "multipleStartDate": ""
+    },
+    "activityEndDate": "2016-08-21T03:59:59",
+    "assetDeals": [],
+    "assetServiceHostName": "as-app04.active.tan",
+    "childIndex": "",
+    "assetDescriptions": [{
+      "descriptionType": {
+        "descriptionTypeName": "Standard",
+        "descriptionTypeId": "6"
+      },
+      "description": "<p>The 5th Annual Brian McSharry Memorial Walk/Run will be taking place August 20th 2016 at D.W. Filed Park in Brockton, MA. This 6.2 K walk or run will take you through one side of the park completing a loop, starting and ending at the top of the hill by the observation tower. The top three finishers per category will receive awards. We will also have raffles for prizes as well as a 50/50 raffle.</p> <p>This is a fun family event, strollers and dogs welcomed. All proceeds from the event go towards a scholarship at Massasoit Community College for a student in the criminal justice field.</p><h4>Event details and schedule</h4><p></p><p>Registration and Packet pick up: 8:15 am</p> <p>Runners start: 9:00 am</p> <p>Walkers start: 9:15 am</p> <p>Parking is available at the top of the hill inside the gates.&nbsp;</p>"
+    }],
+    "componentInUrlAdr": {},
+    "activityStartDate": "2016-08-20T04:00:00",
+    "contactName": "",
+    "sorCreateUserId": "",
+    "localTimeZoneId": "US/Eastern",
+    "contactEmailAdr": "",
+    "socialMedia": [],
+    "donationUrlAdr": "",
+    "activenetTopGraphic": {},
+    "assetReferences": [],
+    "market": {
+      "marketName": "endurance-walking",
+      "marketId": "11"
+    },
+    "assetAttributes": [{
+      "attribute": {
+        "tagId": "58738",
+        "attributeValue": "Beginner",
+        "attributeType": "Skill level"
+      }
+    }, {
+      "attribute": {
+        "tagId": "58739",
+        "attributeValue": "Intermediate",
+        "attributeType": "Skill level"
+      }
+    }],
+    "timezoneAbb": "",
+    "assetMediaTypes": [{
+      "sequence": "1",
+      "mediaType": {
+        "mediaTypeName": "Event",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "2"
+      }
+    }, {
+      "sequence": "2",
+      "mediaType": {
+        "mediaTypeName": "difficulty:Intermediate",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "166"
+      }
+    }, {
+      "sequence": "3",
+      "mediaType": {
+        "mediaTypeName": "Military",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "178"
+      }
+    }, {
+      "sequence": "4",
+      "mediaType": {
+        "mediaTypeName": "difficulty:Beginner",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "78"
+      }
+    }, {
+      "sequence": "5",
+      "mediaType": {
+        "mediaTypeName": "Other",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "8"
+      }
+    }],
+    "evergreenAssetFlag": "false",
+    "authorName": "",
+    "registrantSearchUrlAdr": "https://myevents.active.com/search/registration-search.faces?e=36195454&a=284175808",
+    "modifiedDate": "2016-08-10T23:30:28",
+    "timezoneName": "",
+    "showContact": "false",
+    "assetParentAsset": {},
+    "assetStatus": {
+      "assetStatusId": "2",
+      "assetStatusName": "VISIBLE"
+    },
+    "regReqMaxAge": null,
+    "currencyCd": "USD",
+    "resultsUrlAdr": "",
+    "assetImages": [{
+      "imageName": "",
+      "imageCaptionTxt": "",
+      "linkTarget": "",
+      "imageUrlAdr": "http://www.active.com/images/events/hotrace.gif",
+      "linkUrl": "",
+      "imageType": "IMAGE"
+    }, {
+      "imageName": "",
+      "imageCaptionTxt": "",
+      "linkTarget": "",
+      "imageUrlAdr": "http://photos-images.active.com/file/3/1/original/b3cf1db7-fb99-4f36-9c5a-047f67810bde.jpg",
+      "linkUrl": "",
+      "imageType": "IMAGE"
+    }],
+    "evergreenParentAsset": {},
+    "sourceSystem": {
+      "sourceSystemName": "ActiveWorks Endurance",
+      "legacyGuid": "DFAA997A-D591-44CA-9FB7-BF4A4C8984F1",
+      "affiliate": "true"
+    },
+    "assetGuid": "a4c1cf62-e295-48a3-9ef1-14264da3c61e",
+    "timezone": "UTC",
+    "assetRootAsset": {},
+    "assetTags": [{
+      "tag": {
+        "tagId": "32308",
+        "tagName": "true",
+        "tagDescription": "activeadvantage"
+      }
+    }, {
+      "tag": {
+        "tagId": "58738",
+        "tagName": "Beginner",
+        "tagDescription": "Skill level"
+      }
+    }, {
+      "tag": {
+        "tagId": "58739",
+        "tagName": "Intermediate",
+        "tagDescription": "Skill level"
+      }
+    }, {
+      "tag": {
+        "tagId": "125937",
+        "tagName": "false",
+        "tagDescription": "usatsanctioned"
+      }
+    }],
+    "assetPopularity": {
+      "searches": 1,
+      "createdAt": 1471393751,
+      "clickTypes": {
+        "otherActive": 39,
+        "registration": 32,
+        "nonActive": 28
+      },
+      "clicks": 99,
+      "rank": 973,
+      "results": 22,
+      "views": 425,
+      "A3Rank": 429
+    },
+    "preferredUrlAdr": "",
+    "logoUrlAdr": "http://www.active.com/images/events/hotrace.gif",
+    "assetPrices": [],
+    "detailPageTemplateId": "",
+    "assetComponents": [{
+      "sequence": "1",
+      "activityStartDate": "2016-08-20T04:00:00",
+      "assetSeoUrls": [],
+      "assetGuid": "d67cf61f-b36b-4c43-a29e-83c7d6507f06",
+      "activityEndDate": "2016-08-21T03:59:59",
+      "assetName": "Running-6.2 K - Individual Age group/open"
+    }, {
+      "sequence": "2",
+      "activityStartDate": "2016-08-20T04:00:00",
+      "assetSeoUrls": [],
+      "assetGuid": "85a24d0b-da5d-49ae-aa8e-2342c5c8b8f0",
+      "activityEndDate": "2016-08-21T03:59:59",
+      "assetName": "Police, Veterans, and Fire Fighters - Individual Age group/open"
+    }, {
+      "sequence": "3",
+      "activityStartDate": "2016-08-20T04:00:00",
+      "assetSeoUrls": [],
+      "assetGuid": "a14ce7e9-ea27-4407-b972-b27e4a0fe21f",
+      "activityEndDate": "2016-08-21T03:59:59",
+      "assetName": "Walking-6.2 K - Individual Age group/open"
+    }],
+    "teamUrlAdr": "",
+    "sorId": "",
+    "place": {
+      "placeDsc": "",
+      "placeUrlAdr": "",
+      "timezone": "America/New_York",
+      "postalCode": "02301",
+      "latitude": "42.101542",
+      "directionsTxt": "",
+      "addressLine2Txt": "",
+      "geoPoint": {
+        "lon": "-71.04403",
+        "lat": "42.101542"
+      },
+      "addressLine1Txt": "Oak Street",
+      "stateProvinceCode": "MA",
+      "localityName": "",
+      "cityName": "Brockton",
+      "timezoneOffset": -5,
+      "timezoneDST": 1,
+      "countryCode": "USA",
+      "dma": {
+        "dmaId": "506",
+        "dmaName": "Boston (Manchester)"
+      },
+      "countryName": "United States",
+      "placeGuid": "c7e118f0-aff4-4beb-9f95-07371281b7ce",
+      "placeName": "D.W. Filed Park",
+      "longitude": "-71.04403"
+    },
+    "overrideSeourlFlag": "false",
+    "assetCategories": [{
+      "sequence": "1",
+      "category": {
+        "categoryName": "Event",
+        "categoryId": "2",
+        "categoryTaxonomy": "Event"
+      }
+    }, {
+      "sequence": "2",
+      "category": {
+        "categoryName": "Races",
+        "categoryId": "22",
+        "categoryTaxonomy": "Event/Races"
+      }
+    }],
+    "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fbrockton-ma%2Frunning%2Fdistance-running-races%2Fbrian-mcsharry-memorial-run-2016?cmp=39-34-405166",
+    "retryCounter": "2",
+    "assetInterests": [],
+    "assetDsc": "",
+    "contactTxt": "",
+    "alternateName": "",
+    "regReqMinAge": null,
+    "createdDate": "2016-04-25T16:59:14",
+    "assetMetaInterests": [{
+      "sequence": "1",
+      "metaInterest": {
+        "metaInterestId": "1",
+        "metaInterestTaxonomy": "Charitable",
+        "metaInterestName": "Charitable"
+      }
+    }, {
+      "sequence": "2",
+      "metaInterest": {
+        "metaInterestId": "2",
+        "metaInterestTaxonomy": "Family",
+        "metaInterestName": "Family"
+      }
+    }],
+    "salesStartDate": "2016-04-25T04:00:00",
+    "homePageUrlAdr": "",
+    "assetQuantity": {},
+    "organization": {
+      "primaryContactName": "",
+      "organizationName": "Brian McSharry Memorial Fund",
+      "addressPostalCd": "02301",
+      "sourceSystemId": "9",
+      "imageUrlAdr": "",
+      "addressCityName": "Brockton",
+      "organizationGuid": "4ed6be07-2a61-47b3-b893-5bb6dab29097",
+      "addressLine2Txt": "",
+      "primaryContactPhone": "7742591275",
+      "shortDsc": "",
+      "addressLine1Txt": "779 Pearl Street",
+      "addressLocalityName": "",
+      "organizationDsc": "US",
+      "organizationUrlAdr": "",
+      "hideOrganizationContact": "false",
+      "isDeleted": "false",
+      "addressStateProvinceCode": "MA",
+      "sourceSystemGuid": "dfaa997a-d591-44ca-9fb7-bf4a4c8984f1",
+      "addressCountryCd": "USA",
+      "showOrganizationName": "true",
+      "fax": ""
+    },
+    "assetName": "Brian McSharry Memorial Run",
+    "contactPhone": "",
+    "searchScore": null,
+    "assetVersion": 82,
+    "salesStatus": "registration-open"
+  }, {
+    "assetTopics": [{
+      "sequence": "1",
+      "topic": {
+        "topicId": "283",
+        "topicName": "Trail running",
+        "topicTaxonomy": "Endurance/Running/Trail running"
+      }
+    }, {
+      "sequence": "2",
+      "topic": {
+        "topicId": "27",
+        "topicName": "Running",
+        "topicTaxonomy": "Endurance/Running"
+      }
+    }],
+    "salesEndDate": "2016-08-21T03:59:59",
+    "regReqGenderCd": "",
+    "registrationUrlAdr": "http://www.active.com/boylston-ma/running/trail-run-races/cold-water-run-2016",
+    "retryDate": "2016-06-29T20:17:49",
+    "evergreenAssets": [],
+    "assetSeoUrls": [{
+      "seoSystemName": "as3",
+      "statusCode": "true",
+      "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fboylston-ma%2Frunning%2Ftrail-run-races%2Fcold-water-run-2016?cmp=39-34-405166"
+    }],
+    "publishDate": null,
+    "assetChannels": [{
+      "sequence": "1",
+      "channel": {
+        "channelDsc": "Running",
+        "channelName": "Running",
+        "channelId": "1020"
+      }
+    }],
+    "sorCreateDtm": null,
+    "localeCd": "",
+    "activityRecurrences": [{
+      "frequencyInterval": "1",
+      "activityStartDate": "2016-08-21T04:00:00",
+      "activityExclusions": [],
+      "activityEndDate": "2016-08-22T03:59:59",
+      "days": "Sunday, Monday",
+      "startTime": "",
+      "endTime": "",
+      "frequency": {
+        "frequencyName": "Daily"
+      }
+    }],
+    "assetLegacyData": {
+      "maxTeamNb": "",
+      "assetTypeId": "dfaa997a-d591-44ca-9fb7-bf4a4c8984f1",
+      "costAmt": "",
+      "typeName": "",
+      "uploadSearchUrlAdr": "",
+      "avgUserRatingTxt": "",
+      "trackbackUrl": "",
+      "seoUrl": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2F5k-race%2Fboylston-ma%2Fcold-water-run-2016?cmp=39-34-405166",
+      "eventCategories": "",
+      "estParticipantNb": "",
+      "participationCriteriaTxt": "Family||Kids",
+      "priceExtensionTxt": "",
+      "isSearchable": "false",
+      "onlineMembership": "",
+      "minGuaranteedGameNb": "",
+      "searchWeight": "",
+      "userCommentTxt": "",
+      "substitutionUrl": "E-019B2D9D",
+      "onlineDonation": "",
+      "genderRequirementTxt": "",
+      "createdDate": "2016-06-21T15:46:30",
+      "onlineMembershipCostAmt": "",
+      "authorName": "",
+      "onlineRegistration": "true",
+      "modifiedDate": "2016-06-30T06:09:05",
+      "multipleStartDate": ""
+    },
+    "activityEndDate": "2016-08-22T03:59:59",
+    "assetDeals": [],
+    "assetServiceHostName": "as-app06",
+    "childIndex": "",
+    "assetDescriptions": [{
+      "descriptionType": {
+        "descriptionTypeName": "Standard",
+        "descriptionTypeId": "6"
+      },
+      "description": "<p>The Hillside Restoration project &amp; the Boylston Parks &amp; Recreation Department will hold their 3nd annual Cold Water Run 5K trail run on Sunday, August 21st &nbsp;at 8:30am at Hillside.&nbsp; This event commemorates John B. Gough's legacy as one of the most important social reformers of the 19th century.&nbsp; This run will also celebrate Gough's Birthday (August 22nd, 1817 in Kent, England)&nbsp; The 5K Trail run will wind through the Hillside Estate on the trails surrounding Gough's 1848 house, which in it's day was a 100-acre working farm.&nbsp; The 5K largely follows cross-country courses that were used several years ago by local colleges and universities to host meets.</p> <p>Check in starts at 7:30am on the lawn of the Gough House. The address is 215 Main Street Boylston, MA&nbsp; 01505</p> <p>Birthday Cake, along with other food and drinks will be served during the post-run party on the lawn of the Gough House.</p> <p>Awards will be given for overall and age group winners.</p><h4>Event details and schedule</h4><p></p><p>Check in Starts at 7:30am on the front lawn of the Gough House.</p> <p>There is plenty of parking on site.&nbsp; Volunteers will be on hand to direct you where to go.</p> <p>This is a timed race by Central Mass Striders.</p> <p>This is a Trail run that will take you through hills, open fields, and wooded trails.</p> <p>&nbsp;</p>"
+    }],
+    "componentInUrlAdr": {},
+    "activityStartDate": "2016-08-21T04:00:00",
+    "contactName": "",
+    "sorCreateUserId": "",
+    "localTimeZoneId": "US/Eastern",
+    "contactEmailAdr": "",
+    "socialMedia": [],
+    "donationUrlAdr": "",
+    "activenetTopGraphic": {},
+    "assetReferences": [],
+    "market": {
+      "marketName": "endurance-running",
+      "marketId": "8"
+    },
+    "assetAttributes": [{
+      "attribute": {
+        "tagId": "58739",
+        "attributeValue": "Intermediate",
+        "attributeType": "Skill level"
+      }
+    }, {
+      "attribute": {
+        "tagId": "58738",
+        "attributeValue": "Beginner",
+        "attributeType": "Skill level"
+      }
+    }, {
+      "attribute": {
+        "tagId": "58740",
+        "attributeValue": "Advanced",
+        "attributeType": "Skill level"
+      }
+    }, {
+      "attribute": {
+        "tagId": "58705",
+        "attributeValue": "5K",
+        "attributeType": "Distance (running)"
+      }
+    }, {
+      "attribute": {
+        "tagId": "58741",
+        "attributeValue": "Elite",
+        "attributeType": "Skill level"
+      }
+    }],
+    "timezoneAbb": "",
+    "assetMediaTypes": [{
+      "sequence": "1",
+      "mediaType": {
+        "mediaTypeName": "5K",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "11"
+      }
+    }, {
+      "sequence": "2",
+      "mediaType": {
+        "mediaTypeName": "difficulty:Intermediate",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "166"
+      }
+    }, {
+      "sequence": "3",
+      "mediaType": {
+        "mediaTypeName": "Military",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "178"
+      }
+    }, {
+      "sequence": "4",
+      "mediaType": {
+        "mediaTypeName": "Elite",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "252"
+      }
+    }, {
+      "sequence": "5",
+      "mediaType": {
+        "mediaTypeName": "difficulty:Advanced",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "139"
+      }
+    }, {
+      "sequence": "6",
+      "mediaType": {
+        "mediaTypeName": "Event",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "2"
+      }
+    }, {
+      "sequence": "7",
+      "mediaType": {
+        "mediaTypeName": "Off-road/Trail",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "155"
+      }
+    }, {
+      "sequence": "8",
+      "mediaType": {
+        "mediaTypeName": "difficulty:Beginner",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "78"
+      }
+    }],
+    "evergreenAssetFlag": "false",
+    "authorName": "",
+    "registrantSearchUrlAdr": "https://myevents.active.com/search/registration-search.faces?e=37241053&a=284064705",
+    "modifiedDate": "2016-06-30T06:09:07",
+    "timezoneName": "",
+    "showContact": "false",
+    "assetParentAsset": {},
+    "assetStatus": {
+      "assetStatusId": "2",
+      "assetStatusName": "VISIBLE"
+    },
+    "regReqMaxAge": null,
+    "currencyCd": "USD",
+    "resultsUrlAdr": "",
+    "assetImages": [{
+      "imageName": "",
+      "imageCaptionTxt": "",
+      "linkTarget": "",
+      "imageUrlAdr": "http://photos-images.active.com/file/3/1/original/fc2ecdaf-18d0-4119-b1ac-08470d2d98c7.jpg",
+      "linkUrl": "",
+      "imageType": "IMAGE"
+    }, {
+      "imageName": "",
+      "imageCaptionTxt": "",
+      "linkTarget": "",
+      "imageUrlAdr": "http://www.active.com/images/events/hotrace.gif",
+      "linkUrl": "",
+      "imageType": "IMAGE"
+    }, {
+      "imageName": "",
+      "imageCaptionTxt": "",
+      "linkTarget": "",
+      "imageUrlAdr": "http://photos-images.active.com/file/3/1/original/8ede2ac7-e4d7-4d5d-9a99-dd9c431b9ffc.jpg",
+      "linkUrl": "",
+      "imageType": "IMAGE"
+    }, {
+      "imageName": "",
+      "imageCaptionTxt": "",
+      "linkTarget": "",
+      "imageUrlAdr": "http://photos-images.active.com/file/3/1/original/3abb3200-4b2b-46ff-82d0-65cf168f9774.jpg",
+      "linkUrl": "",
+      "imageType": "IMAGE"
+    }, {
+      "imageName": "",
+      "imageCaptionTxt": "",
+      "linkTarget": "",
+      "imageUrlAdr": "http://photos-images.active.com/file/3/1/original/07e1473b-fa6d-4a24-a964-e87a9c083344.jpg",
+      "linkUrl": "",
+      "imageType": "IMAGE"
+    }],
+    "evergreenParentAsset": {},
+    "sourceSystem": {
+      "sourceSystemName": "ActiveWorks Endurance",
+      "legacyGuid": "DFAA997A-D591-44CA-9FB7-BF4A4C8984F1",
+      "affiliate": "true"
+    },
+    "assetGuid": "702e99d1-65d7-4de1-9675-0243957020fe",
+    "timezone": "UTC",
+    "assetRootAsset": {},
+    "assetTags": [{
+      "tag": {
+        "tagId": "125937",
+        "tagName": "false",
+        "tagDescription": "usatsanctioned"
+      }
+    }, {
+      "tag": {
+        "tagId": "58738",
+        "tagName": "Beginner",
+        "tagDescription": "Skill level"
+      }
+    }, {
+      "tag": {
+        "tagId": "32308",
+        "tagName": "true",
+        "tagDescription": "activeadvantage"
+      }
+    }, {
+      "tag": {
+        "tagId": "58705",
+        "tagName": "5K",
+        "tagDescription": "Distance (running)"
+      }
+    }, {
+      "tag": {
+        "tagId": "58741",
+        "tagName": "Elite",
+        "tagDescription": "Skill level"
+      }
+    }, {
+      "tag": {
+        "tagId": "58739",
+        "tagName": "Intermediate",
+        "tagDescription": "Skill level"
+      }
+    }, {
+      "tag": {
+        "tagId": "58740",
+        "tagName": "Advanced",
+        "tagDescription": "Skill level"
+      }
+    }],
+    "assetPopularity": {
+      "searches": 7,
+      "createdAt": 1471393751,
+      "clickTypes": {
+        "otherActive": 155,
+        "registration": 51,
+        "nonActive": 47
+      },
+      "clicks": 253,
+      "rank": 2102,
+      "results": 110,
+      "views": 841,
+      "A3Rank": 777
+    },
+    "preferredUrlAdr": "",
+    "logoUrlAdr": "http://www.active.com/images/events/hotrace.gif",
+    "assetPrices": [],
+    "detailPageTemplateId": "",
+    "assetComponents": [{
+      "sequence": "1",
+      "activityStartDate": "2016-08-21T04:00:00",
+      "assetSeoUrls": [],
+      "assetGuid": "6a2f3adb-13a0-406b-8215-df8192707be0",
+      "activityEndDate": "2016-08-22T03:59:59",
+      "assetName": "Running-5K - Individual Age group/open"
+    }],
+    "teamUrlAdr": "",
+    "sorId": "",
+    "place": {
+      "placeDsc": "",
+      "placeUrlAdr": "",
+      "timezone": "America/New_York",
+      "postalCode": "01505",
+      "latitude": "42.326569",
+      "directionsTxt": "",
+      "addressLine2Txt": " ",
+      "geoPoint": {
+        "lon": "-71.750827",
+        "lat": "42.326569"
+      },
+      "addressLine1Txt": "215 Main Street",
+      "stateProvinceCode": "MA",
+      "localityName": "",
+      "cityName": "Boylston",
+      "timezoneOffset": -5,
+      "timezoneDST": 1,
+      "countryCode": "USA",
+      "dma": {
+        "dmaId": "506",
+        "dmaName": "Boston (Manchester)"
+      },
+      "countryName": "United States",
+      "placeGuid": "3fa21bc0-ccc8-40ff-82d6-82d88d393609",
+      "placeName": "Hillside",
+      "longitude": "-71.750827"
+    },
+    "overrideSeourlFlag": "false",
+    "assetCategories": [{
+      "sequence": "1",
+      "category": {
+        "categoryName": "Races",
+        "categoryId": "22",
+        "categoryTaxonomy": "Event/Races"
+      }
+    }],
+    "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fboylston-ma%2Frunning%2Ftrail-run-races%2Fcold-water-run-2016?cmp=39-34-405166",
+    "retryCounter": "2",
+    "assetInterests": [],
+    "assetDsc": "",
+    "contactTxt": "",
+    "alternateName": "",
+    "regReqMinAge": null,
+    "createdDate": "2016-06-21T15:46:29",
+    "assetMetaInterests": [],
+    "salesStartDate": "2016-06-29T04:00:00",
+    "homePageUrlAdr": "http://www.Boylston-ma.gov/parks",
+    "assetQuantity": {},
+    "organization": {
+      "primaryContactName": "",
+      "organizationName": "Parks and Recreation ",
+      "addressPostalCd": "01505",
+      "sourceSystemId": "9",
+      "imageUrlAdr": "",
+      "addressCityName": "Boylston",
+      "organizationGuid": "aa787ce8-9819-42f9-9a7b-3c1a40b4aff1",
+      "addressLine2Txt": "",
+      "primaryContactPhone": "774-317-9254",
+      "shortDsc": "",
+      "addressLine1Txt": "221 Main Street",
+      "addressLocalityName": "",
+      "organizationDsc": "US",
+      "organizationUrlAdr": "",
+      "hideOrganizationContact": "false",
+      "isDeleted": "false",
+      "addressStateProvinceCode": "MA",
+      "sourceSystemGuid": "dfaa997a-d591-44ca-9fb7-bf4a4c8984f1",
+      "addressCountryCd": "USA",
+      "showOrganizationName": "true",
+      "fax": ""
+    },
+    "assetName": "Cold Water Run",
+    "contactPhone": "",
+    "searchScore": null,
+    "assetVersion": 54,
+    "salesStatus": "registration-open"
+  }, {
+    "assetTopics": [{
+      "sequence": "1",
+      "topic": {
+        "topicId": "278",
+        "topicName": "Distance running",
+        "topicTaxonomy": "Endurance/Running/Distance running"
+      }
+    }, {
+      "sequence": "2",
+      "topic": {
+        "topicId": "27",
+        "topicName": "Running",
+        "topicTaxonomy": "Endurance/Running"
+      }
+    }],
+    "salesEndDate": null,
+    "regReqGenderCd": "",
+    "registrationUrlAdr": "http://www.active.com/pepperell-ma/running/distance-running-races/nm-cares-3-6-mile-road-race-ending-the-stigma-starting-new-lives-2016",
+    "retryDate": "2016-08-10T05:02:04",
+    "evergreenAssets": [],
+    "assetSeoUrls": [{
+      "seoSystemName": "as3",
+      "statusCode": "true",
+      "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fpepperell-ma%2Frunning%2Fdistance-running-races%2Fnm-cares-3-6-mile-road-race-ending-the-stigma-starting-new-lives-2016?cmp=39-34-405166"
+    }],
+    "publishDate": null,
+    "assetChannels": [{
+      "sequence": "1",
+      "channel": {
+        "channelDsc": "Running",
+        "channelName": "Running",
+        "channelId": "1020"
+      }
+    }],
+    "sorCreateDtm": null,
+    "localeCd": "",
+    "activityRecurrences": [{
+      "frequencyInterval": "1",
+      "activityStartDate": "2016-08-21T09:00:00",
+      "activityExclusions": [],
+      "activityEndDate": "2016-08-21T00:00:00",
+      "days": "Sunday",
+      "startTime": "",
+      "endTime": "",
+      "frequency": {
+        "frequencyName": "Daily"
+      }
+    }],
+    "assetLegacyData": {
+      "maxTeamNb": "",
+      "assetTypeId": "",
+      "costAmt": "",
+      "typeName": "",
+      "uploadSearchUrlAdr": "",
+      "avgUserRatingTxt": "",
+      "trackbackUrl": "",
+      "seoUrl": "",
+      "eventCategories": "",
+      "estParticipantNb": "200",
+      "participationCriteriaTxt": "",
+      "priceExtensionTxt": "",
+      "isSearchable": "false",
+      "onlineMembership": "",
+      "minGuaranteedGameNb": "",
+      "searchWeight": "",
+      "userCommentTxt": "",
+      "substitutionUrl": "",
+      "onlineDonation": "",
+      "genderRequirementTxt": "",
+      "createdDate": "2016-08-10T08:51:54",
+      "onlineMembershipCostAmt": "",
+      "authorName": "",
+      "onlineRegistration": "",
+      "modifiedDate": "2016-08-10T08:51:54",
+      "multipleStartDate": ""
+    },
+    "activityEndDate": "2016-08-21T00:00:00",
+    "assetDeals": [],
+    "assetServiceHostName": "as-app08",
+    "childIndex": "",
+    "assetDescriptions": [{
+      "descriptionType": {
+        "descriptionTypeName": "summary",
+        "descriptionTypeId": "4"
+      },
+      "description": "This event is presented by NM Cares 501(c)3 Outreach organization raising awareness on the abuse and misuse of opioids and help. <h4>Entry Fee</h4> <p>Ages 19 & up: $25. <br>18 & under: $15. <br>Day-of Registration: $20 for 18-under / $30 for 19+.</p>"
+    }],
+    "componentInUrlAdr": {},
+    "activityStartDate": "2016-08-21T09:00:00",
+    "contactName": "",
+    "sorCreateUserId": "",
+    "localTimeZoneId": "",
+    "contactEmailAdr": "nmcommunitycares@gmail.com",
+    "socialMedia": [],
+    "donationUrlAdr": "",
+    "activenetTopGraphic": {},
+    "assetReferences": [],
+    "market": {},
+    "assetAttributes": [{
+      "attribute": {
+        "tagId": "58715",
+        "attributeValue": "Other running distance",
+        "attributeType": "Distance (running)"
+      }
+    }, {
+      "attribute": {
+        "tagId": "58734",
+        "attributeValue": "All",
+        "attributeType": "Age group"
+      }
+    }],
+    "timezoneAbb": "",
+    "assetMediaTypes": [{
+      "sequence": "1",
+      "mediaType": {
+        "mediaTypeName": "Event\\Road Race",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "295"
+      }
+    }],
+    "evergreenAssetFlag": "false",
+    "authorName": "",
+    "registrantSearchUrlAdr": "",
+    "modifiedDate": "2016-08-10T08:52:04",
+    "timezoneName": "",
+    "showContact": "true",
+    "assetParentAsset": {},
+    "assetStatus": {
+      "assetStatusId": "2",
+      "assetStatusName": "VISIBLE"
+    },
+    "regReqMaxAge": null,
+    "currencyCd": "",
+    "resultsUrlAdr": "",
+    "assetImages": [],
+    "evergreenParentAsset": {},
+    "sourceSystem": {
+      "sourceSystemName": "Researched Assets",
+      "legacyGuid": "b47b0828-23ed-4d85-bdf0-b22819f53332",
+      "affiliate": "false"
+    },
+    "assetGuid": "c6ed2d9b-081b-4ad9-adac-b32007bb6dbe",
+    "timezone": "",
+    "assetRootAsset": {},
+    "assetTags": [{
+      "tag": {
+        "tagId": "342833",
+        "tagName": "3.6 Mile",
+        "tagDescription": "MISCELLANEOUS"
+      }
+    }, {
+      "tag": {
+        "tagId": "58715",
+        "tagName": "Other running distance",
+        "tagDescription": "Distance (running)"
+      }
+    }, {
+      "tag": {
+        "tagId": "58734",
+        "tagName": "All",
+        "tagDescription": "Age group"
+      }
+    }],
+    "assetPopularity": {
+      "searches": 0,
+      "createdAt": 1471393751,
+      "clickTypes": {
+        "otherActive": 3,
+        "registration": 0,
+        "nonActive": 0
+      },
+      "clicks": 3,
+      "rank": 140,
+      "results": 126,
+      "views": 5,
+      "A3Rank": 62
+    },
+    "preferredUrlAdr": "",
+    "logoUrlAdr": "",
+    "assetPrices": [{
+      "effectiveFromVolume": "0",
+      "priceAmt": null,
+      "maxPriceAmt": 30,
+      "effectiveUntilDate": null,
+      "minPriceAmt": 15,
+      "effectiveToVolume": "0",
+      "dynamicPricing": "false",
+      "volumePricing": "false"
+    }],
+    "detailPageTemplateId": "",
+    "assetComponents": [],
+    "teamUrlAdr": "",
+    "sorId": "",
+    "place": {
+      "placeDsc": "",
+      "placeUrlAdr": "",
+      "timezone": "America/New_York",
+      "postalCode": "01463",
+      "latitude": "42.673736",
+      "directionsTxt": "",
+      "addressLine2Txt": "",
+      "geoPoint": {
+        "lon": "-71.590741",
+        "lat": "42.673736"
+      },
+      "addressLine1Txt": "33 Chace Avenue",
+      "stateProvinceCode": "MA",
+      "localityName": "",
+      "cityName": "Pepperell",
+      "timezoneOffset": -5,
+      "timezoneDST": 1,
+      "countryCode": "USA",
+      "dma": {
+        "dmaId": "506",
+        "dmaName": "Boston (Manchester)"
+      },
+      "countryName": "United States",
+      "placeGuid": "5092007d-17f9-45d8-91a4-fac6d1bdd3b9",
+      "placeName": "Nissitissit Middle School",
+      "longitude": "-71.590741"
+    },
+    "overrideSeourlFlag": "false",
+    "assetCategories": [{
+      "sequence": "1",
+      "category": {
+        "categoryName": "Races",
+        "categoryId": "22",
+        "categoryTaxonomy": "Event/Races"
+      }
+    }],
+    "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fpepperell-ma%2Frunning%2Fdistance-running-races%2Fnm-cares-3-6-mile-road-race-ending-the-stigma-starting-new-lives-2016?cmp=39-34-405166",
+    "retryCounter": "2",
+    "assetInterests": [],
+    "assetDsc": "",
+    "contactTxt": "",
+    "alternateName": "",
+    "regReqMinAge": null,
+    "createdDate": "2016-08-10T08:51:54",
+    "assetMetaInterests": [],
+    "salesStartDate": null,
+    "homePageUrlAdr": "https://www.facebook.com/nm.cares",
+    "assetQuantity": {},
+    "organization": {
+      "primaryContactName": "",
+      "organizationUrlAdr": ""
+    },
+    "assetName": "NM Cares 3.6 Mile Road Race - \"Ending the Stigma....Starting New Lives\"",
+    "contactPhone": "978-995-5845",
+    "searchScore": null,
+    "assetVersion": 11,
+    "salesStatus": "registration-unavailable"
+  }, {
+    "assetTopics": [{
+      "sequence": "1",
+      "topic": {
+        "topicId": "278",
+        "topicName": "Distance running",
+        "topicTaxonomy": "Endurance/Running/Distance running"
+      }
+    }, {
+      "sequence": "2",
+      "topic": {
+        "topicId": "27",
+        "topicName": "Running",
+        "topicTaxonomy": "Endurance/Running"
+      }
+    }],
+    "salesEndDate": null,
+    "regReqGenderCd": "",
+    "registrationUrlAdr": "http://www.active.com/hyannis-ma/running/distance-running-races/run-with-the-cops-for-kids-with-cancer-2016",
+    "retryDate": "2016-08-10T05:02:06",
+    "evergreenAssets": [],
+    "assetSeoUrls": [{
+      "seoSystemName": "as3",
+      "statusCode": "true",
+      "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fhyannis-ma%2Frunning%2Fdistance-running-races%2Frun-with-the-cops-for-kids-with-cancer-2016?cmp=39-34-405166"
+    }],
+    "publishDate": null,
+    "assetChannels": [{
+      "sequence": "1",
+      "channel": {
+        "channelDsc": "Running",
+        "channelName": "Running",
+        "channelId": "1020"
+      }
+    }],
+    "sorCreateDtm": null,
+    "localeCd": "",
+    "activityRecurrences": [{
+      "frequencyInterval": "1",
+      "activityStartDate": "2016-08-22T18:15:00",
+      "activityExclusions": [],
+      "activityEndDate": "2016-08-22T00:00:00",
+      "days": "Monday",
+      "startTime": "",
+      "endTime": "",
+      "frequency": {
+        "frequencyName": "Daily"
+      }
+    }],
+    "assetLegacyData": {},
+    "activityEndDate": "2016-08-22T00:00:00",
+    "assetDeals": [],
+    "assetServiceHostName": "as-app01.active.tan",
+    "childIndex": "",
+    "assetDescriptions": [{
+      "descriptionType": {
+        "descriptionTypeName": "summary",
+        "descriptionTypeId": "4"
+      },
+      "description": "This Two-Mile Run/Walk starts and finishes at the Village Green in Hyannis. <br>The Barnstable Police Department is putting on this event to benefit: Cops For Kids With Cancer. <h4>Entry Fee</h4> <p>$20.00 January 11-June 30 <br>$22.50 July 1-July 31  <br>$25.00 August 1-Race Day <br>Youth 6 and under free, 7-12 $10.00, 13-18 $15.00.</p> <h4>Awards</h4> <p>Prizes to First Place male and female runners and walkers and to first-third in age groups.  <br>Awards at the Village Green immediately following the event. <br>All youth 12 and under receive a medal.</p> <h4>Age Groups</h4> <p>13-20, 21-29,30-39, 40-49,50-59, 60- 69, 70 -79, 80 plus.</p>"
+    }],
+    "componentInUrlAdr": {},
+    "activityStartDate": "2016-08-22T18:15:00",
+    "contactName": "Patick Lentell",
+    "sorCreateUserId": "",
+    "localTimeZoneId": "",
+    "contactEmailAdr": "patrick.lentell@semcsports.com",
+    "socialMedia": [],
+    "donationUrlAdr": "",
+    "activenetTopGraphic": {},
+    "assetReferences": [],
+    "market": {},
+    "assetAttributes": [{
+      "attribute": {
+        "tagId": "58734",
+        "attributeValue": "All",
+        "attributeType": "Age group"
+      }
+    }, {
+      "attribute": {
+        "tagId": "58715",
+        "attributeValue": "Other running distance",
+        "attributeType": "Distance (running)"
+      }
+    }, {
+      "attribute": {
+        "tagId": "58737",
+        "attributeValue": "All",
+        "attributeType": "Gender"
+      }
+    }],
+    "timezoneAbb": "",
+    "assetMediaTypes": [{
+      "sequence": "1",
+      "mediaType": {
+        "mediaTypeName": "Event\\Road Race",
+        "mediaTypeDsc": "",
+        "mediaTypeId": "295"
+      }
+    }],
+    "evergreenAssetFlag": "false",
+    "authorName": "",
+    "registrantSearchUrlAdr": "",
+    "modifiedDate": "2016-08-10T08:52:07",
+    "timezoneName": "",
+    "showContact": "true",
+    "assetParentAsset": {},
+    "assetStatus": {
+      "assetStatusId": "2",
+      "assetStatusName": "VISIBLE"
+    },
+    "regReqMaxAge": null,
+    "currencyCd": "",
+    "resultsUrlAdr": "",
+    "assetImages": [],
+    "evergreenParentAsset": {},
+    "sourceSystem": {
+      "sourceSystemName": "Researched Assets",
+      "legacyGuid": "b47b0828-23ed-4d85-bdf0-b22819f53332",
+      "affiliate": "false"
+    },
+    "assetGuid": "40d6abfd-cd3f-4405-9dde-c61fd5ca0050",
+    "timezone": "",
+    "assetRootAsset": {},
+    "assetTags": [{
+      "tag": {
+        "tagId": "58734",
+        "tagName": "All",
+        "tagDescription": "Age group"
+      }
+    }, {
+      "tag": {
+        "tagId": "58737",
+        "tagName": "All",
+        "tagDescription": "Gender"
+      }
+    }, {
+      "tag": {
+        "tagId": "58715",
+        "tagName": "Other running distance",
+        "tagDescription": "Distance (running)"
+      }
+    }],
+    "assetPopularity": {
+      "searches": 0,
+      "createdAt": 1471393799,
+      "clickTypes": {
+        "otherActive": 0,
+        "registration": 0,
+        "nonActive": 10
+      },
+      "clicks": 10,
+      "rank": 70,
+      "results": 5,
+      "views": 35,
+      "A3Rank": 31
+    },
+    "preferredUrlAdr": "",
+    "logoUrlAdr": "",
+    "assetPrices": [{
+      "effectiveFromVolume": "0",
+      "priceAmt": null,
+      "maxPriceAmt": 25,
+      "effectiveUntilDate": null,
+      "minPriceAmt": 0,
+      "effectiveToVolume": "0",
+      "dynamicPricing": "false",
+      "volumePricing": "false"
+    }],
+    "detailPageTemplateId": "",
+    "assetComponents": [],
+    "teamUrlAdr": "",
+    "sorId": "",
+    "place": {
+      "placeDsc": "",
+      "placeUrlAdr": "",
+      "timezone": "America/New_York",
+      "postalCode": "02601",
+      "latitude": "41.683205",
+      "directionsTxt": "",
+      "addressLine2Txt": "",
+      "geoPoint": {
+        "lon": "-70.284042",
+        "lat": "41.683205"
+      },
+      "addressLine1Txt": "767 Independence Drive",
+      "stateProvinceCode": "MA",
+      "localityName": "",
+      "cityName": "Hyannis",
+      "timezoneOffset": -5,
+      "timezoneDST": 1,
+      "countryCode": "USA",
+      "dma": {
+        "dmaId": "506",
+        "dmaName": "Boston (Manchester)"
+      },
+      "countryName": "United States",
+      "placeGuid": "2d01c456-4acc-42e8-a0c5-145262782d6f",
+      "placeName": "Village Green",
+      "longitude": "-70.284042"
+    },
+    "overrideSeourlFlag": "false",
+    "assetCategories": [{
+      "sequence": "1",
+      "category": {
+        "categoryName": "Races",
+        "categoryId": "22",
+        "categoryTaxonomy": "Event/Races"
+      }
+    }],
+    "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fhyannis-ma%2Frunning%2Fdistance-running-races%2Frun-with-the-cops-for-kids-with-cancer-2016?cmp=39-34-405166",
+    "retryCounter": "2",
+    "assetInterests": [],
+    "assetDsc": "",
+    "contactTxt": "",
+    "alternateName": "",
+    "regReqMinAge": null,
+    "createdDate": "2016-08-10T08:52:01",
+    "assetMetaInterests": [{
+      "sequence": "1",
+      "metaInterest": {
+        "metaInterestId": "1",
+        "metaInterestTaxonomy": "Charitable",
+        "metaInterestName": "Charitable"
+      }
+    }, {
+      "sequence": "2",
+      "metaInterest": {
+        "metaInterestId": "2",
+        "metaInterestTaxonomy": "Family",
+        "metaInterestName": "Family"
+      }
+    }],
+    "salesStartDate": null,
+    "homePageUrlAdr": "http://www.semcsports.com/events/23/run-with-the-cops-for-kids-with-cancer/",
+    "assetQuantity": {},
+    "organization": {
+      "primaryContactName": "",
+      "organizationUrlAdr": ""
+    },
+    "assetName": "Run with the Cops For Kids With Cancer",
+    "contactPhone": "508-280-7903",
+    "searchScore": null,
+    "assetVersion": 11,
+    "salesStatus": "registration-unavailable"
+  }, {
+    "assetTopics": [{
+      "sequence": "1",
+      "topic": {
+        "topicId": "47",
+        "topicName": "Baseball",
+        "topicTaxonomy": "Sports/Baseball"
+      }
+    }],
+    "salesEndDate": "2016-09-27T23:59:00",
+    "regReqGenderCd": "",
+    "registrationUrlAdr": "http://www.active.com/wellesley-ma/baseball/baseball-programs/hero-home-run-baseball-2016",
+    "retryDate": "2016-08-16T17:52:24",
+    "evergreenAssets": [],
+    "assetSeoUrls": [{
+      "seoSystemName": "as3",
+      "statusCode": "true",
+      "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fwellesley-ma%2Fbaseball%2Fbaseball-programs%2Fhero-home-run-baseball-2016?cmp=39-34-405166"
+    }],
+    "publishDate": null,
+    "assetChannels": [{
+      "sequence": "1",
+      "channel": {
+        "channelDsc": "Baseball",
+        "channelName": "Baseball",
+        "channelId": "1002"
+      }
+    }],
+    "sorCreateDtm": null,
+    "localeCd": "en_US",
+    "activityRecurrences": [{
+      "frequencyInterval": "1",
+      "activityStartDate": "2016-08-23T10:30:00",
+      "activityExclusions": [],
+      "activityEndDate": "2016-09-27T11:30:00",
+      "days": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+      "startTime": "",
+      "endTime": "",
+      "frequency": {
+        "frequencyName": "Daily"
+      }
+    }],
+    "assetLegacyData": {
+      "maxTeamNb": "",
+      "assetTypeId": "",
+      "costAmt": "",
+      "typeName": "",
+      "uploadSearchUrlAdr": "",
+      "avgUserRatingTxt": "",
+      "trackbackUrl": "",
+      "seoUrl": "",
+      "eventCategories": "",
+      "estParticipantNb": "",
+      "participationCriteriaTxt": "",
+      "priceExtensionTxt": "",
+      "isSearchable": "false",
+      "onlineMembership": "",
+      "minGuaranteedGameNb": "",
+      "searchWeight": "",
+      "userCommentTxt": "",
+      "substitutionUrl": "",
+      "onlineDonation": "",
+      "genderRequirementTxt": "",
+      "createdDate": "2016-06-29T17:03:02",
+      "onlineMembershipCostAmt": "",
+      "authorName": "",
+      "onlineRegistration": "true",
+      "modifiedDate": "2016-08-16T21:42:16",
+      "multipleStartDate": ""
+    },
+    "activityEndDate": "2016-09-27T11:30:00",
+    "assetDeals": [],
+    "assetServiceHostName": "as-app08",
+    "childIndex": "",
+    "assetDescriptions": [{
+      "descriptionType": {
+        "descriptionTypeName": "Standard",
+        "descriptionTypeId": "6"
+      },
+      "description": "Specialized sports program utilizing biometric exercises that will promote the development of gross motor skills, coordination and balance   BASEBALL:HERO Activities- Ready positions, throwing, catching, running the bases, hitting, learning the field & fielding, HERO Obstacle Courses, full game AWARDS Ceremony!  We not only teach sports fundamentals, sportsmanship & how to become a team player, we also teach the importance of nutrition and healthy lifestyle choices. It’s our goal to help children form positive habits that they will carry with them throughout their lives."
+    }],
+    "componentInUrlAdr": {},
+    "activityStartDate": "2016-08-23T10:30:00",
+    "contactName": "",
+    "sorCreateUserId": "",
+    "localTimeZoneId": "",
+    "contactEmailAdr": "coachmike@herokidsports.com",
+    "socialMedia": [],
+    "donationUrlAdr": "",
+    "activenetTopGraphic": {},
+    "assetReferences": [],
+    "market": {
+      "marketName": "camps-any",
+      "marketId": "1"
+    },
+    "assetAttributes": [{
+      "attribute": {
+        "tagId": "58744",
+        "attributeValue": "Day",
+        "attributeType": "Camp type"
+      }
+    }],
+    "timezoneAbb": "",
+    "assetMediaTypes": [],
+    "evergreenAssetFlag": "false",
+    "authorName": "",
+    "registrantSearchUrlAdr": "",
+    "modifiedDate": "2016-08-17T04:42:59",
+    "timezoneName": "",
+    "showContact": "false",
+    "assetParentAsset": {},
+    "assetStatus": {
+      "assetStatusId": "2",
+      "assetStatusName": "VISIBLE"
+    },
+    "regReqMaxAge": 6,
+    "currencyCd": "USD",
+    "resultsUrlAdr": "",
+    "assetImages": [],
+    "evergreenParentAsset": {},
+    "sourceSystem": {
+      "sourceSystemName": "AW Camps 3.0",
+      "legacyGuid": "89208dba-f535-4950-880a-34a6888a184c",
+      "affiliate": "false"
+    },
+    "assetGuid": "ea56bc04-bb38-45a0-b9d1-63452157619d",
+    "timezone": "US/Eastern",
+    "assetRootAsset": {},
+    "assetTags": [{
+      "tag": {
+        "tagId": "32308",
+        "tagName": "true",
+        "tagDescription": "activeadvantage"
+      }
+    }, {
+      "tag": {
+        "tagId": "58744",
+        "tagName": "Day",
+        "tagDescription": "Camp type"
+      }
+    }],
+    "assetPopularity": {
+      "searches": 0,
+      "clicks": 0,
+      "results": 42,
+      "A3Rank": 20,
+      "views": 2
+    },
+    "preferredUrlAdr": "",
+    "logoUrlAdr": "http://photos-images.active.com/file/3/1/original/3fed7209-3671-41ac-8db2-957b65a55e82.jpg",
+    "assetPrices": [{
+      "effectiveFromVolume": "0",
+      "priceAmt": 90,
+      "maxPriceAmt": null,
+      "effectiveUntilDate": null,
+      "minPriceAmt": null,
+      "effectiveToVolume": "0",
+      "dynamicPricing": "false",
+      "volumePricing": "false"
+    }],
+    "detailPageTemplateId": "",
+    "assetComponents": [{
+      "sequence": "1",
+      "activityStartDate": "2016-08-23T10:30:00",
+      "assetSeoUrls": [],
+      "assetGuid": "647b5e7b-d31f-4aa6-946b-27c72e7ef3e1",
+      "activityEndDate": "2016-09-27T11:30:00",
+      "assetName": "Wellesley K-B Price"
+    }],
+    "teamUrlAdr": "",
+    "sorId": "",
+    "place": {
+      "placeDsc": "",
+      "placeUrlAdr": "",
+      "showPlaceName": "true",
+      "timezone": "America/New_York",
+      "postalCode": "02481",
+      "latitude": "42.315422",
+      "directionsTxt": "",
+      "addressLine2Txt": "",
+      "geoPoint": {
+        "lon": "-71.247012",
+        "lat": "42.315422"
+      },
+      "addressLine1Txt": "204 Worcester St.",
+      "stateProvinceCode": "MA",
+      "localityName": "",
+      "cityName": "Wellesley",
+      "timezoneOffset": -5,
+      "timezoneDST": 1,
+      "countryCode": "USA",
+      "dma": {
+        "dmaId": "506",
+        "dmaName": "Boston (Manchester)"
+      },
+      "countryName": "United States",
+      "placeGuid": "4fd24522-70ba-457f-b15c-e2e2bfdcddfe",
+      "placeName": "Wellesley Knowledge Beginnings",
+      "longitude": "-71.247012"
+    },
+    "overrideSeourlFlag": "false",
+    "assetCategories": [{
+      "sequence": "1",
+      "category": {
+        "categoryName": "Programs",
+        "categoryId": "79",
+        "categoryTaxonomy": "Event/Programs"
+      }
+    }],
+    "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fwellesley-ma%2Fbaseball%2Fbaseball-programs%2Fhero-home-run-baseball-2016?cmp=39-34-405166",
+    "retryCounter": "1",
+    "assetInterests": [],
+    "assetDsc": "",
+    "contactTxt": "",
+    "alternateName": "",
+    "regReqMinAge": 2,
+    "createdDate": "2016-06-29T17:03:02",
+    "assetMetaInterests": [{
+      "sequence": "1",
+      "metaInterest": {
+        "metaInterestId": "4",
+        "metaInterestTaxonomy": "Kids",
+        "metaInterestName": "Kids"
+      }
+    }],
+    "salesStartDate": "2015-09-17T15:02:00",
+    "homePageUrlAdr": "",
+    "assetQuantity": {
+      "waitlistCnt": "",
+      "soldCnt": "0",
+      "createdDate": "2016-06-29T17:03:02",
+      "availableCnt": "0",
+      "modifiedDate": "2016-08-16T21:42:16",
+      "capacityNb": "0",
+      "waitlistCapacityNb": ""
+    },
+    "organization": {
+      "primaryContactName": "",
+      "organizationName": "HERO Kids Sports",
+      "addressPostalCd": "02116",
+      "sourceSystemId": "98",
+      "imageUrlAdr": "",
+      "addressCityName": "Boston",
+      "organizationGuid": "51afdb4d-627c-43f4-8d22-fcf461d7b02b",
+      "addressLine2Txt": "",
+      "primaryContactPhone": "(857) 400-8858",
+      "shortDsc": "",
+      "addressLine1Txt": "Boylston St",
+      "addressLocalityName": "",
+      "organizationDsc": "<p>Vistit us today at: http://www.HEROKidSports.com/</p>  <p>Sports enrichment programs specializing in ages 2-10 years of age!&nbsp;</p>  <p>Greater Boston Area!&nbsp;</p>  <p>&nbsp;</p>  <p>Welcome to HERO Kids Sports.<br /> Our promise: Fitness, Nutrition, Friends &amp; Fun!</p>  <p>We have devised a specialized program that coaches kids in the&nbsp;fundamentals of their chosen sport, one step at a time.</p>  <p>Every program is specifically&nbsp;designed to teach your child the fundamentals of the sport and to learn how to be part of a team. We&nbsp;emphasize that no HERO works alone and can only succeed through&nbsp;helping others.&nbsp;</p>  <p>Our programs start out with&nbsp;warm up sessions designed to&nbsp;teach children how to properly &nbsp;prepare for exercise. Each week marks the completion of&nbsp;a new milestone in the basics of the sport. Join our HERO Kids Sports team&nbsp;today!&nbsp;</p>  <p>HERO Kids Sports currently hosts 8 different sports for a period of six&nbsp;weeks at a time. We come to you and your kid at the school that they&nbsp;attend!&nbsp;</p>  <p>If you do not see a sport that you would love to get your kid involved in,&nbsp;just let us know and we will work out the rest! Below is a brief&nbsp;description of each of the sports. For a more detailed breakdown of&nbsp;what each week entails, please contact us directly!</p>  <p><strong>What HERO Believes:</strong><br /> &bull; Hero Kids Sports believes every child can succeed in life by developing&nbsp;confidence, motivation and a sense of belonging.<br /> &bull; All kids are capable and have the ability to be good at sports; they just&nbsp;need a little encouragement to learn.<br /> &bull; Younger, brighter minds! Our unique focus is 2-10 years of age. We know&nbsp;from years of experience of working with kids that the earlier kids&nbsp;start in sports, the more fun they have and the more they want to&nbsp;learn!</p>  <p><strong>What HERO Does:</strong><br /> &bull; We come to your school, park, house or residence to teach kids the&nbsp;fundamentals of sports.<br /> &bull; Through a unique child-focused introduction to team sports, we provide&nbsp;exceptional education in an inspiring atmosphere.<br /> &bull; HERO Kids Sports equips kids with the basics of a variety of athletics so&nbsp;that everyone can play as a team.<br /> &bull; Our program connects the essential components of a healthy life: being&nbsp;fit, eating healthy, having friends and feeling successful.</p>  <p>&nbsp;</p>  <p><span style=\"color: rgb(96, 94, 94); font-family: museo-w01-700, serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal;\">We are currently operating in the greater Boston area.&nbsp;</span><span style=\"border-style: initial; outline: 0px; color: rgb(96, 94, 94); font-family: museo-w01-700, serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal; text-decoration: underline; background: transparent;\"><a href=\"http://www.herokidsports.com/#!contact/c24vq\" style=\"border-style: initial; outline: 0px; color: inherit; background: transparent;\" target=\"_self\">Contact us</a></span><span style=\"color: rgb(96, 94, 94); font-family: museo-w01-700, serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal;\">&nbsp;directly by phone or email to find out if&nbsp;HERO&nbsp;is at your kid&rsquo;s school!</span></p> ",
+      "organizationUrlAdr": "",
+      "hideOrganizationContact": "false",
+      "isDeleted": "false",
+      "addressStateProvinceCode": "MA",
+      "sourceSystemGuid": "89208dba-f535-4950-880a-34a6888a184c",
+      "addressCountryCd": "USA",
+      "showOrganizationName": "true",
+      "fax": ""
+    },
+    "assetName": "HERO Home Run Baseball!",
+    "contactPhone": "(857) 400-8858",
+    "searchScore": null,
+    "assetVersion": 41,
+    "salesStatus": "registration-open"
+  }, {
+    "assetTopics": [{
+      "sequence": "1",
+      "topic": {
+        "topicId": "7",
+        "topicName": "Sports",
+        "topicTaxonomy": "Sports"
+      }
+    }],
+    "salesEndDate": "2016-09-28T23:59:00",
+    "regReqGenderCd": "",
+    "registrationUrlAdr": "http://www.active.com/burlington-ma-ma/programs/hero-track-and-field-2016",
+    "retryDate": "2016-08-16T04:56:59",
+    "evergreenAssets": [],
+    "assetSeoUrls": [{
+      "seoSystemName": "as3",
+      "statusCode": "true",
+      "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fburlington-ma-ma%2Fprograms%2Fhero-track-and-field-2016?cmp=39-34-405166"
+    }],
+    "publishDate": null,
+    "assetChannels": [{
+      "sequence": "8",
+      "channel": {
+        "channelDsc": "Miscellaneous",
+        "channelName": "Miscellaneous",
+        "channelId": "1015"
+      }
+    }],
+    "sorCreateDtm": null,
+    "localeCd": "en_US",
+    "activityRecurrences": [{
+      "frequencyInterval": "1",
+      "activityStartDate": "2016-08-24T10:00:00",
+      "activityExclusions": [],
+      "activityEndDate": "2016-09-28T11:00:00",
+      "days": "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
+      "startTime": "",
+      "endTime": "",
+      "frequency": {
+        "frequencyName": "Daily"
+      }
+    }],
+    "assetLegacyData": {
+      "maxTeamNb": "",
+      "assetTypeId": "",
+      "costAmt": "",
+      "typeName": "",
+      "uploadSearchUrlAdr": "",
+      "avgUserRatingTxt": "",
+      "trackbackUrl": "",
+      "seoUrl": "",
+      "eventCategories": "",
+      "estParticipantNb": "",
+      "participationCriteriaTxt": "",
+      "priceExtensionTxt": "",
+      "isSearchable": "false",
+      "onlineMembership": "",
+      "minGuaranteedGameNb": "",
+      "searchWeight": "",
+      "userCommentTxt": "",
+      "substitutionUrl": "",
+      "onlineDonation": "",
+      "genderRequirementTxt": "",
+      "createdDate": "2016-08-08T17:47:21",
+      "onlineMembershipCostAmt": "",
+      "authorName": "",
+      "onlineRegistration": "true",
+      "modifiedDate": "2016-08-08T19:10:43",
+      "multipleStartDate": ""
+    },
+    "activityEndDate": "2016-09-28T11:00:00",
+    "assetDeals": [],
+    "assetServiceHostName": "as-app03.active.tan",
+    "childIndex": "",
+    "assetDescriptions": [{
+      "descriptionType": {
+        "descriptionTypeName": "Standard",
+        "descriptionTypeId": "6"
+      },
+      "description": "Specialized sports program utilizing biometric exercises that will promote the development of gross motor skills, coordination and balance   TRACK & FIELD: HERO Activities, Ready positions, running stances, long jumping, learning the track, hurdling, shot put, HERO Obstacle Courses, full relay race- AWARDS CEREMONY! On your mark, get set, HERO GO!  We not only teach sports fundamentals, sportsmanship & how to become a team player, we also teach the importance of nutrition and healthy lifestyle choices. It’s our goal to help children form positive habits that they will carry with them throughout their lives."
+    }],
+    "componentInUrlAdr": {},
+    "activityStartDate": "2016-08-24T10:00:00",
+    "contactName": "",
+    "sorCreateUserId": "",
+    "localTimeZoneId": "",
+    "contactEmailAdr": "coachmike@herokidsports.com",
+    "socialMedia": [],
+    "donationUrlAdr": "",
+    "activenetTopGraphic": {},
+    "assetReferences": [],
+    "market": {
+      "marketName": "camps-any",
+      "marketId": "1"
+    },
+    "assetAttributes": [{
+      "attribute": {
+        "tagId": "58744",
+        "attributeValue": "Day",
+        "attributeType": "Camp type"
+      }
+    }],
+    "timezoneAbb": "",
+    "assetMediaTypes": [],
+    "evergreenAssetFlag": "false",
+    "authorName": "",
+    "registrantSearchUrlAdr": "",
+    "modifiedDate": "2016-08-16T08:46:35",
+    "timezoneName": "",
+    "showContact": "false",
+    "assetParentAsset": {},
+    "assetStatus": {
+      "assetStatusId": "2",
+      "assetStatusName": "VISIBLE"
+    },
+    "regReqMaxAge": null,
+    "currencyCd": "USD",
+    "resultsUrlAdr": "",
+    "assetImages": [],
+    "evergreenParentAsset": {},
+    "sourceSystem": {
+      "sourceSystemName": "AW Camps 3.0",
+      "legacyGuid": "89208dba-f535-4950-880a-34a6888a184c",
+      "affiliate": "false"
+    },
+    "assetGuid": "63e3adf7-da28-4296-a8a4-6dddceedb8a3",
+    "timezone": "US/Eastern",
+    "assetRootAsset": {},
+    "assetTags": [{
+      "tag": {
+        "tagId": "58744",
+        "tagName": "Day",
+        "tagDescription": "Camp type"
+      }
+    }, {
+      "tag": {
+        "tagId": "32308",
+        "tagName": "true",
+        "tagDescription": "activeadvantage"
+      }
+    }],
+    "assetPopularity": {
+      "searches": 0,
+      "createdAt": 1471393800,
+      "clickTypes": {
+        "otherActive": 1,
+        "registration": 0,
+        "nonActive": 0
+      },
+      "clicks": 1,
+      "rank": 18,
+      "results": 13,
+      "views": 2,
+      "A3Rank": 8
+    },
+    "preferredUrlAdr": "",
+    "logoUrlAdr": "http://photos-images.active.com/file/3/1/original/3fed7209-3671-41ac-8db2-957b65a55e82.jpg",
+    "assetPrices": [{
+      "effectiveFromVolume": "0",
+      "priceAmt": 90,
+      "maxPriceAmt": null,
+      "effectiveUntilDate": null,
+      "minPriceAmt": null,
+      "effectiveToVolume": "0",
+      "dynamicPricing": "false",
+      "volumePricing": "false"
+    }],
+    "detailPageTemplateId": "",
+    "assetComponents": [{
+      "sequence": "1",
+      "activityStartDate": "2016-08-24T10:00:00",
+      "assetSeoUrls": [],
+      "assetGuid": "850483e8-58b1-4a9f-93ad-5a97dc554222",
+      "activityEndDate": "2016-09-28T11:00:00",
+      "assetName": "Growing by Leaps & Bounds Price"
+    }],
+    "teamUrlAdr": "",
+    "sorId": "",
+    "place": {
+      "placeDsc": "",
+      "placeUrlAdr": "",
+      "showPlaceName": "true",
+      "timezone": "America/New_York",
+      "postalCode": "01803",
+      "latitude": "42.502474",
+      "directionsTxt": "",
+      "addressLine2Txt": "",
+      "geoPoint": {
+        "lon": "-71.206514",
+        "lat": "42.502474"
+      },
+      "addressLine1Txt": "12 St Marks Rd",
+      "stateProvinceCode": "MA",
+      "localityName": "",
+      "cityName": "Burlington, MA",
+      "timezoneOffset": -5,
+      "timezoneDST": 1,
+      "countryCode": "USA",
+      "dma": {
+        "dmaId": "506",
+        "dmaName": "Boston (Manchester)"
+      },
+      "countryName": "United States",
+      "placeGuid": "5dda1d00-f009-4957-9576-a5a16859ddf8",
+      "placeName": "Growing By Leaps & Bounds Inc",
+      "longitude": "-71.206514"
+    },
+    "overrideSeourlFlag": "false",
+    "assetCategories": [{
+      "sequence": "1",
+      "category": {
+        "categoryName": "Programs",
+        "categoryId": "79",
+        "categoryTaxonomy": "Event/Programs"
+      }
+    }],
+    "urlAdr": "http://www.tantracking.com/click.track?CID=254301&AFID=405166&nonencodedurl=http%3A%2F%2Fwww.active.com%2Fburlington-ma-ma%2Fprograms%2Fhero-track-and-field-2016?cmp=39-34-405166",
+    "retryCounter": "2",
+    "assetInterests": [],
+    "assetDsc": "",
+    "contactTxt": "",
+    "alternateName": "",
+    "regReqMinAge": null,
+    "createdDate": "2016-08-08T17:47:21",
+    "assetMetaInterests": [{
+      "sequence": "1",
+      "metaInterest": {
+        "metaInterestId": "4",
+        "metaInterestTaxonomy": "Kids",
+        "metaInterestName": "Kids"
+      }
+    }],
+    "salesStartDate": "2016-06-23T15:19:00",
+    "homePageUrlAdr": "",
+    "assetQuantity": {
+      "waitlistCnt": "",
+      "soldCnt": "0",
+      "createdDate": "2016-08-08T17:47:21",
+      "availableCnt": "0",
+      "modifiedDate": "2016-08-08T19:10:43",
+      "capacityNb": "0",
+      "waitlistCapacityNb": ""
+    },
+    "organization": {
+      "primaryContactName": "",
+      "organizationName": "HERO Kids Sports",
+      "addressPostalCd": "02116",
+      "sourceSystemId": "98",
+      "imageUrlAdr": "",
+      "addressCityName": "Boston",
+      "organizationGuid": "51afdb4d-627c-43f4-8d22-fcf461d7b02b",
+      "addressLine2Txt": "",
+      "primaryContactPhone": "(857) 400-8858",
+      "shortDsc": "",
+      "addressLine1Txt": "Boylston St",
+      "addressLocalityName": "",
+      "organizationDsc": "<p>Vistit us today at: http://www.HEROKidSports.com/</p>  <p>Sports enrichment programs specializing in ages 2-10 years of age!&nbsp;</p>  <p>Greater Boston Area!&nbsp;</p>  <p>&nbsp;</p>  <p>Welcome to HERO Kids Sports.<br /> Our promise: Fitness, Nutrition, Friends &amp; Fun!</p>  <p>We have devised a specialized program that coaches kids in the&nbsp;fundamentals of their chosen sport, one step at a time.</p>  <p>Every program is specifically&nbsp;designed to teach your child the fundamentals of the sport and to learn how to be part of a team. We&nbsp;emphasize that no HERO works alone and can only succeed through&nbsp;helping others.&nbsp;</p>  <p>Our programs start out with&nbsp;warm up sessions designed to&nbsp;teach children how to properly &nbsp;prepare for exercise. Each week marks the completion of&nbsp;a new milestone in the basics of the sport. Join our HERO Kids Sports team&nbsp;today!&nbsp;</p>  <p>HERO Kids Sports currently hosts 8 different sports for a period of six&nbsp;weeks at a time. We come to you and your kid at the school that they&nbsp;attend!&nbsp;</p>  <p>If you do not see a sport that you would love to get your kid involved in,&nbsp;just let us know and we will work out the rest! Below is a brief&nbsp;description of each of the sports. For a more detailed breakdown of&nbsp;what each week entails, please contact us directly!</p>  <p><strong>What HERO Believes:</strong><br /> &bull; Hero Kids Sports believes every child can succeed in life by developing&nbsp;confidence, motivation and a sense of belonging.<br /> &bull; All kids are capable and have the ability to be good at sports; they just&nbsp;need a little encouragement to learn.<br /> &bull; Younger, brighter minds! Our unique focus is 2-10 years of age. We know&nbsp;from years of experience of working with kids that the earlier kids&nbsp;start in sports, the more fun they have and the more they want to&nbsp;learn!</p>  <p><strong>What HERO Does:</strong><br /> &bull; We come to your school, park, house or residence to teach kids the&nbsp;fundamentals of sports.<br /> &bull; Through a unique child-focused introduction to team sports, we provide&nbsp;exceptional education in an inspiring atmosphere.<br /> &bull; HERO Kids Sports equips kids with the basics of a variety of athletics so&nbsp;that everyone can play as a team.<br /> &bull; Our program connects the essential components of a healthy life: being&nbsp;fit, eating healthy, having friends and feeling successful.</p>  <p>&nbsp;</p>  <p><span style=\"color: rgb(96, 94, 94); font-family: museo-w01-700, serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal;\">We are currently operating in the greater Boston area.&nbsp;</span><span style=\"border-style: initial; outline: 0px; color: rgb(96, 94, 94); font-family: museo-w01-700, serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal; text-decoration: underline; background: transparent;\"><a href=\"http://www.herokidsports.com/#!contact/c24vq\" style=\"border-style: initial; outline: 0px; color: inherit; background: transparent;\" target=\"_self\">Contact us</a></span><span style=\"color: rgb(96, 94, 94); font-family: museo-w01-700, serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: bold; line-height: normal;\">&nbsp;directly by phone or email to find out if&nbsp;HERO&nbsp;is at your kid&rsquo;s school!</span></p> ",
+      "organizationUrlAdr": "",
+      "hideOrganizationContact": "false",
+      "isDeleted": "false",
+      "addressStateProvinceCode": "MA",
+      "sourceSystemGuid": "89208dba-f535-4950-880a-34a6888a184c",
+      "addressCountryCd": "USA",
+      "showOrganizationName": "true",
+      "fax": ""
+    },
+    "assetName": "HERO Track & Field!",
+    "contactPhone": "(857) 400-8858",
+    "searchScore": null,
+    "assetVersion": 16,
+    "salesStatus": "registration-open"
+  }],
+  "radius": null,
+  "start_date": "",
+  "sort": "date_asc"
+}

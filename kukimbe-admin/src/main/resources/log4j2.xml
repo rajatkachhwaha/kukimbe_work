@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+    <Properties>
+        <Property name="log-path">D:Tomcat\logs
+        </Property>
+    </Properties>
+    <Appenders>
+        <RollingFile name="KukimbeRollingFile" fileName="${log-path}\kukimbe.log"
+                     filePattern="${log-path}/GNP2AdHoc-%d{MM-dd-yyyy}-%i.log">
+            <PatternLayout>
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss} %-5p [%t] %X %C{1} - %m %throwable%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <OnStartupTriggeringPolicy/>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="500 MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="4">
+                <Delete basePath="${log-path}" maxDepth="2">
+                    <IfFileName glob="*/kukimbe-*.log"/>
+                    <IfLastModified age="5d"/>
+                </Delete>
+            </DefaultRolloverStrategy>
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <Root level="DEBUG">
+            <AppenderRef ref="KukimbeRollingFile"/>
+        </Root>
+        <Logger name="org.springframework" level="WARN"/>
+        <Logger name="org.springframework.jmx.export.MBeanExporter" level="WARN"/>
+        <Logger name="org.springframework.jmx" level="WARN"/>
+        <Logger name="org.springframework.jmx" level="WARN"/>
+        <Logger name="org.apache.commons.beanutils" level="WARN"/>
+        <Logger name="org.apache.velocity" level="INFO"/>
+        <Logger name="org.apache.velocity.runtime.log.Log4JLogChute" level="INFO"/>
+        <Logger name="org.hibernate" level="WARN"/>
+        <Logger name="net.sf.log4jdbc.log.log4j2.Log4j2SpyLogDelegator" level="WARN"/>
+        <logger name="log4jdbc.log4j2" level="WARN">
+            <MarkerFilter marker="LOG4JDBC_NON_STATEMENT" onMatch="DENY" onMismatch="NEUTRAL"/>
+        </logger>
+    </Loggers>
+</Configuration>
